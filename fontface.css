@@ -9,4 +9,6 @@
     font-style: normal;	
 	}
 
-p {font-family:'fontNameRegular', Arial, sans-serif;}
+p {
+	font-family:'fontNameRegular', Arial, sans-serif;
+	}
