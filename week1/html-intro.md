@@ -14,9 +14,13 @@ On the other hand, the following line is an element:
         <p>This is a great day</p>
 
 This is another element:
+
         <div><p>This is a great day</p></div>.
 
 An **attribute** is a property of an element. It is written inside the start tag in the following form
+
         <tag attribute="value">
+        
 For example the src attribute points to a file’s name and location:
+
         <img src="images/flower.gif" />
