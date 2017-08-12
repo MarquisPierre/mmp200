@@ -42,7 +42,7 @@ MMP 100
 </tr>
 </tbody>
 </table>
-<h2><a title="Textbook &amp; Online Reading" href="http://www.revitalk.com/mmp200/textbook/">REQUIRED TEXT</a></h2>
+<h2>REQUIRED TEXT</h2>
 <ul>
 	<li>HTML5 &amp; CSS3 Visual QuickStart Guide, 7th Edition, by Elizabeth Castro &amp; Bruce Hyslop</li>
 	<li>Online text will be assigned</li>
@@ -65,7 +65,6 @@ Grades will be decided based on timely submission, efforts and results of assign
 	<li>Final Project::40%</li>
 	<li>Class participation: 10%</li>
 </ul>
-<h2>Click for <a title="Semester Outline" href="http://www.revitalk.com/mmp200/semester-schedule/">OUTLINE OF TOPICS</a></h2>
 Below are the college’s general education learning outcomes, the outcomes that checked in the left-hand column indicate goals that will be covered and assessed in this course. (Check at least one.)
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
