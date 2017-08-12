@@ -16,5 +16,5 @@ We will use this assignment to review your HTML knowledge learned in MMP 100 and
 We will demonstrate most code needed for the assignment in class and you will work on the assignment both in class and at home.
 
 [Project brief](as1-brief.md)
-[Sitemap]
+[Sitemap](as1-sitemap.png)
 [Content and wireframes](wireframes-as1-mea.pdf)
