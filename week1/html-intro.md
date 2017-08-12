@@ -5,7 +5,14 @@ title: HTML elements, tags and attributes
 ---
 What is the difference between HTML elements and tags?
 
-{% raw %}<p>{% endraw %} is a tag and {% raw %}</p>{% endraw %} is a tag too. The first is a start tag and the second is an end tag. On the other hand, the following line is an element:
+{% raw %}
+<p>
+{% endraw %} 
+is a tag and 
+{% raw %}
+</p>
+{% endraw %} 
+is a tag too. The first is a start tag and the second is an end tag. On the other hand, the following line is an element:
 
 {% raw %}<p>This is a great day</p>{% endraw %}
 
