@@ -5,7 +5,7 @@ title: HTML elements, tags and attributes
 ---
 What is the difference between HTML elements and tags?
 
-<code><p></code> is a tag and </p> is a tag too. The first is a start tag and the second is an end tag. On the other hand, the following line is an element:
+      <p> is a tag and </p> is a tag too. The first is a start tag and the second is an end tag. On the other hand, the following line is an element:
 
 <p>This is a great day</p>
 
