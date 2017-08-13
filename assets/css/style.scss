@@ -21,11 +21,7 @@ nav.site-header li{
   position: -webkit-sticky;  // required for Safari
   position: sticky;
   top: 0; // required as well.
-  border:solid 1px green;
-  padding:0.5em;
-  padding-left:0;
   font-size:smaller;
-  border-radius:10px;
   background-color:#fff;
 
 }
@@ -35,8 +31,6 @@ nav.site-header li{
     .my-posts li li{
     list-style-type:disc;
   }
-    .my-posts ul{
-    padding:0;
-  }
+
 
 }
