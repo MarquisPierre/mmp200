@@ -68,7 +68,7 @@ Write the HTML and CSS code to re-create the homepage based on mockup.
 Upload your prototype to the server and test it on as many devices as you can (you can go to a phone store and test it there on multiple devices). If a design element does not work well on a phone or tablet make changes to your design and test again.
 
 
-**Class presentation:** 
+**Class presentation** 
 --------------------------------
 
 You must make a case for the effectiveness of your design.
