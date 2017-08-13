@@ -19,7 +19,11 @@ nav.site-header li{
   float:right;
   width:300px;
   position: -webkit-sticky;  // required for Safari
-    position: sticky;
-    top: 0; // required as well.
+  position: sticky;
+  top: 0; // required as well.
+  border:solid 1px green;
+  padding:1em;
+  font-size:smaller;
+  border-radius:10px;
 }
 }
