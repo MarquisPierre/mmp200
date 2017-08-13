@@ -14,7 +14,10 @@ nav.site-header li{
   color:#fff;
 }
 
+@media (min-width:768px){
 .my-posts{
   float:right;
   width:300px;
+  padding-right:3em;
+}
 }
