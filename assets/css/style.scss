@@ -22,7 +22,7 @@ nav.site-header li{
   position: sticky;
   top: 0; // required as well.
   border:solid 1px green;
-  padding:1em;
+  padding:0.5em;
   padding-left:0;
   font-size:smaller;
   border-radius:10px;
@@ -35,4 +35,8 @@ nav.site-header li{
     .my-posts li li{
     list-style-type:disc;
   }
+    .my-posts ul{
+    padding:0;
+  }
+
 }
