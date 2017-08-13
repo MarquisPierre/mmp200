@@ -13,9 +13,16 @@ Information Architecture work consists of:
 - Defining website goals and target audiences.
 - Identify content and functional requirements.
 - Grouping and categorizing content
+- Labeling content
+- Designing navigation systems
+
+
+  
+##Grouping and categorizing content
+
   - Exact organizational schemes: alphabetical, chronological, geographical
   - Ambiguous organizational schemes: topic, task, audience, metaphor, hybrid
-  
+
 **challenges**
 - Ambiguity: we use language used to classify and label content, and language is often ambiguous.
 - Heterogeneity: a website consists of content of different types and forms.
@@ -23,5 +30,3 @@ Information Architecture work consists of:
 - Internal politics
 
 For a complete discussion read Organizing Information.
-- Labeling content
-- Designing navigation systems
