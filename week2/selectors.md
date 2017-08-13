@@ -3,7 +3,7 @@ layout: class
 site: MMP 200 Multimedia Design
 title: CSS Selectors
 ---
-A selector is the page element targeted and affected by the CSS rule.
+A CSS selector points to the HTML element targeted and affected by the CSS rule.
 
 **Elements selectors**
 
@@ -61,8 +61,10 @@ And this CSS rule targets the bold line in the list below:
         ul ol strong {background-color: #F7E9FF; font-weight: normal;}
 
 * First list item one
+
         - **First list item two**
         - Second list item one
+        
 - Second list item two
 - First list item three
 
