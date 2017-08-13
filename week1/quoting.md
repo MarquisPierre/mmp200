@@ -2,7 +2,6 @@
 layout: class
 site: MMP 200 Multimedia Design
 title: Quoting with the blockquote and q elements
-
 ---
 
 **The blockquote element**
