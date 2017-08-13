@@ -6,12 +6,12 @@ title: Midterm Assignment: Website Planning and Design
 
 **Goal:** Plan, design and prototype a website for a music festival. Visitors to the site should get excited about the festival, easily figure out the festival’s dates, location and how to buy tickets, and find out the line-ups and other activities.
 
-**STEP 1**
+**STEP 1: **
 **Identify site goals and requirements**
 
 **Deliverable:** Project Brief
 
-**STEP 2**
+**STEP 2: **
 **Plan the content and its structure for your music festival site**
 
 Your website will include the following information:
@@ -41,7 +41,7 @@ Your website will include the following information:
 1. A sitemap in a form of a flowchart
 2. Neat sketches of wireframe designs for the homepage, for mobile devices and desktops (2 sketches in total). Sketches can be done on the computer or neatly by hand.
 
-**STEP 3**
+**STEP 3: **
 **Visual Design**
 
 Based on your sketches design two mockups for your music festival site in Photoshop, one for desktop size screens and one for mobile size screens (portrait). Your mockup should look like a complete finished homepage and must include:
@@ -53,8 +53,8 @@ Based on your sketches design two mockups for your music festival site in Photos
 - A defined typographical theme
 - Actual text
 - Actual images
-
-**STEP 4**
+--------------------------------
+**STEP 4: **
 **HTML Production**
 Write the HTML and CSS code to re-create the homepage based on mockup.
 - Must adjust to at least two screen sizes: mobile and desktop
