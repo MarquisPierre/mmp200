@@ -28,4 +28,4 @@ Grouping and categorizing content
 - Difference in perspective: Labeling and classifying are affected by personal perspectives
 - Internal politics
 
-For a complete discussion read Organizing Information.
+For a complete discussion read [Organizing Information](http://docstore.mik.ua/orelly/web2/infoarch/ch03_01.htm).
