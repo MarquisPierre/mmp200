@@ -1,7 +1,7 @@
 ---
 layout: class
 site: MMP 200 Multimedia Design
-title: Sitemap
+title: The Sitemap
 ---
 **Steps for creating a sitemap**
 
