@@ -19,5 +19,8 @@ nav.site-header li{
   float:right;
   width:300px;
   padding-right:3em;
+  position: -webkit-sticky;  // required for Safari
+    position: sticky;
+    top: 0; // required as well.
 }
 }
