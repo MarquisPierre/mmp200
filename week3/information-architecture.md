@@ -19,8 +19,8 @@ Information Architecture work consists of:
 Grouping and categorizing content
 -------------------------
 
-  - Exact organizational schemes: alphabetical, chronological, geographical
-  - Ambiguous organizational schemes: topic, task, audience, metaphor, hybrid
+  - **Exact organizational schemes:** alphabetical, chronological, geographical
+  - **Ambiguous organizational schemes:** topic, task, audience, metaphor, hybrid
 
 **challenges**
 - Ambiguity: we use language used to classify and label content, and language is often ambiguous.
