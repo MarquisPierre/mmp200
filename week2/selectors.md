@@ -48,7 +48,7 @@ Ids must be unique, i.e. must be given to only one element in a web page.
 
 **Descendant Selectors**
 
-Descendant selectors identify HTML elements by one of their ancestor elements. An ancestor is a tag that nests another tag. In the example below the p is an ancestor of strong and<strong is a decedent of p.
+Descendant selectors identify HTML elements by one of their ancestor elements. An ancestor is a tag that nests another tag. In the example below the p is an ancestor of strong and strong is a decedent of p.
 
         <p>Have a <strong>great</strong>day!</p>
 
@@ -56,15 +56,15 @@ Descendant selectors are a great way to pinpoint an HTML elements without the ne
 
         p strong {color: red;}
 
-And this CSS rule targets the line set in purple in the list below:
+And this CSS rule targets the bold line in the list below:
 
         ul ol strong {background-color: #F7E9FF; font-weight: normal;}
 
-First list item one
-First list item two
-Second list item one
-Second list item two
-First list item three
+* First list item one
+        - **First list item two**
+        -Second list item one
+- Second list item two
+- First list item three
 
 **Pseudo-Class Selectors**
 
