@@ -6,7 +6,9 @@ title: How to Write CSS
 
 **Anatomy of a CSS Rule**
 
+
 ![CSS rule](cssrule1.png)
+
 
 **Grouping selectors**
 
