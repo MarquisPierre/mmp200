@@ -14,11 +14,10 @@ nav.site-header li{
   color:#fff;
 }
 
-@media (min-width:768px){
+@media (min-width:64em){
 .my-posts{
   float:right;
   width:300px;
-  padding-right:3em;
   position: -webkit-sticky;  // required for Safari
     position: sticky;
     top: 0; // required as well.
