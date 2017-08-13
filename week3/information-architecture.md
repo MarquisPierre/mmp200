@@ -14,7 +14,7 @@ Information Architecture work consists of:
 - Identify content and functional requirements.
 - Grouping and categorizing content
 - Labeling content
-- Designing navigation systems
+- Designing [navigation systems](navigationtypesmap.jpg)
   
 Grouping and categorizing content
 -------------------------
