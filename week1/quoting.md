@@ -27,7 +27,7 @@ or:
 
 Note that the source of the quote, which is not part of the quote but tells us something about it, is appropriately inside a footer.
 
-The q element
+**The q element**
 
 Use the q tags to insert a quote into a sentence or a paragraph, such as in:
 
