@@ -29,21 +29,9 @@
     </section>
 
     <section class="main-content">
-      <aside class="my-posts">
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
-    </aside>
-      
-      <div class="content">
+     
       <h2>{{ page.title | default:  }}</h2>
       {{ content }}
-      </div>
 <nav class="class-nav">
 
 </nav>
