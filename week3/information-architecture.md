@@ -2,7 +2,7 @@
 layout: class
 site: MMP 200 Multimedia Design
 title: Information Architecture
-----
+---
 
 [The Information Architecture Institute](http://iainstitute.org/) defines information architecture as
 
@@ -15,10 +15,9 @@ Information Architecture work consists of:
 - Grouping and categorizing content
 - Labeling content
 - Designing navigation systems
-
-
   
-##Grouping and categorizing content
+Grouping and categorizing content
+-------------------------
 
   - Exact organizational schemes: alphabetical, chronological, geographical
   - Ambiguous organizational schemes: topic, task, audience, metaphor, hybrid
