@@ -16,7 +16,11 @@ Element selectors target html elements. Use element selectors when you want all 
 
 To apply the same CSS rule to multiple HTML elements give them the same class and then use a CSS class selector to target them all at once.
 
-        The following CSS rule will affect all <p class="staffname"> elements:
+For example,
+        
+        <p class="staffname"> 
+        
+and then in CSS:
 
         p.staffname {color: gray;}
 
@@ -44,7 +48,7 @@ Ids must be unique, i.e. must be given to only one element in a web page.
 
 **Descendant Selectors**
 
-Descendant selectors identify HTML elements by one of their ancestor elements. An ancestor is a tag that nests another tag. In the example below the <p> is an ancestor of <strong> and <strong> is a decedent of <p>.
+Descendant selectors identify HTML elements by one of their ancestor elements. An ancestor is a tag that nests another tag. In the example below the p is an ancestor of strong and<strong is a decedent of p.
 
         <p>Have a <strong>great</strong>day!</p>
 
@@ -61,7 +65,8 @@ First list item two
 Second list item one
 Second list item two
 First list item three
-Pseudo-Class Selectors
+
+**Pseudo-Class Selectors**
 
 These selectors are not ‘real’ class selectors as no class is specified in the HTML code but is defined by user actions (i.e. hovering, clicking, visiting a page).
 
