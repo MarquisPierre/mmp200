@@ -27,7 +27,9 @@
 <li><a href="{{site.baseurl}}/contact">Contact</a></li>
 </ul></nav>
     </section>
-<aside class="my-posts">
+
+    <section class="main-content">
+      <aside class="my-posts">
 <ul>
   {% for post in site.posts %}
     <li>
@@ -37,9 +39,11 @@
   {% endfor %}
 </ul>
     </aside>
-    <section class="main-content">
+      
+      <div class="content">
       <h2>{{ page.title | default:  }}</h2>
       {{ content }}
+      </div>
 <nav class="class-nav">
 
 </nav>
