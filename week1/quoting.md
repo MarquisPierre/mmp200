@@ -1,7 +1,7 @@
 ---
 layout: class
 site: MMP 200 Multimedia Design
-title: Quoting with <blockquote> and <q>
+title: Quoting with the blockquote and q elements
 
 ---
 
@@ -35,6 +35,6 @@ Use the q tags to insert a quote into a sentence or a paragraph, such as in:
 
  The cite attribute
 
-Use the cite attribute can be used for both blockquote and q elements to indicate a source. The cite value must be a url. For example:
+The cite attribute can be used for both blockquote and q elements to indicate a source. The cite value must be a url. For example:
 
         <blockquote cite="http://www.yourquotesource/source.html">
