@@ -13,3 +13,4 @@ title: The Sitemap
 - Organize categories in navigation bars
 - Draw a sitemap. See example:
 
+![sample sitemap](sample-sitemap.PNG)
