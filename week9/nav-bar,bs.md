@@ -26,14 +26,14 @@ title: Step-by-step basic navigation bar with Bootstrap
 
         <nav class="navbar navbar-default">
         
-  You can learn about other styles that you can use for navigation bar [here](https://www.w3schools.com/bootstrap/bootstrap_navbar.asp).
+   You can learn about other styles that you can use for navigation bar [here](https://www.w3schools.com/bootstrap/bootstrap_navbar.asp).
 
 1. Add the classes nav and nav-navbar to the ul element. They will add bootstrap default styles that turn the list into a horizontal navigation bar.
 
         <ul class="nav navbar-nav">
         
 1. The following 2 steps will make your navigation bar collapsed in small screens:
- - Add a button to toggle the navigation’s visibility in small screens. The code should be placed inside the nav, above the ul that holds the navigation links:
+  - Add a button to toggle the navigation’s visibility in small screens. The code should be placed inside the nav, above the ul that holds the navigation links:
         <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#my-navbar-collapse" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
@@ -43,7 +43,7 @@ title: Step-by-step basic navigation bar with Bootstrap
         </button>
         <a class="navbar-brand" href="#">Brand</a>
         </div>
- - Enclose your navigation ul with:
+  - Enclose your navigation ul with:
         <div class="collapse navbar-collapse" id="my-navbar-collapse">
          <ul class="nav navbar-nav">
          <li><a href="#">Baseball</a></li>
