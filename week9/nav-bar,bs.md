@@ -32,8 +32,9 @@ title: Step-by-step basic navigation bar with Bootstrap
 
         <ul class="nav navbar-nav">
         
-  The following 2 steps will make your navigation bar collapsed in small screens:
+   The following 2 steps will make your navigation bar collapsed in small screens:
 1. Add a button to toggle the navigation’s visibility in small screens. The code should be placed inside the nav, above the ul that holds the navigation links:
+
         <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#my-navbar-collapse" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
@@ -43,7 +44,9 @@ title: Step-by-step basic navigation bar with Bootstrap
         </button>
         <a class="navbar-brand" href="#">Brand</a>
         </div>
+        
 1. Enclose your navigation ul with:
+
         <div class="collapse navbar-collapse" id="my-navbar-collapse">
          <ul class="nav navbar-nav">
          <li><a href="#">Baseball</a></li>
