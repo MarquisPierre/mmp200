@@ -30,7 +30,7 @@ title: Basic dropdown navigation bar with Bootstrap
         <li class="dropdown"><a href="#">Football</a>
          <ul>...
          
-1. Add the class ‘dropdown-toggle’ to the <a> of each li that holds the dropdown menu, as well as data-toggle=”dropdown”:
+1. Add the class ‘dropdown-toggle’ to the hyperlink of each li that holds the dropdown menu, as well as data-toggle=”dropdown”:
 
         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Football</a>
 
