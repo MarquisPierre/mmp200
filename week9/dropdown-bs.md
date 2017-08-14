@@ -4,9 +4,9 @@ site: MMP 200 Multimedia Design
 categories: bootstrap
 title: Basic dropdown navigation bar with Bootstrap
 ---
-Complete all stages to create a basic navigation bar with Bootstrap.
+*Complete all stages to create a basic navigation bar with Bootstrap.
 
-Add the HTML code for the dropdown menus. For example:
+1. Add the HTML code for the dropdown menus. For example:
 
         <ul class="nav navbar-nav">
         <li><a href="#">Baseball</a></li>
@@ -25,21 +25,21 @@ Add the HTML code for the dropdown menus. For example:
         <li><a href="#">Hockey</a></li>
         </ul>
         
-Add the class ‘dropdown’ to the li(s) that hold the dropdown menus:
+1. Add the class ‘dropdown’ to the li(s) that hold the dropdown menus:
 
         <li class="dropdown"><a href="#">Football</a>
          <ul>...
          
-Add the class ‘dropdown-toggle’ to the <a> of each li that holds the dropdown menu, as well as data-toggle=”dropdown”:
+1. Add the class ‘dropdown-toggle’ to the <a> of each li that holds the dropdown menu, as well as data-toggle=”dropdown”:
 
         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Football</a>
 
-Add the class ‘dropdown-menu’ to the ul that holds the dropdown navigation links:
+1. Add the class ‘dropdown-menu’ to the ul that holds the dropdown navigation links:
 
         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Football</a>
           <ul class="dropdown-menu">
 
-To add a little down arrow next to each link that opens the dropdown menu add <span class=”caret”></span> next to the link text:
+1. To add a little down arrow next to each link that opens the dropdown menu add <span class=”caret”></span> next to the link text:
 
         <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Football<span class="caret"></span></a>
