@@ -1,0 +1,47 @@
+---
+layout: class
+site: MMP 200 Multimedia Design
+categories: bootstrap
+title: Basic dropdown navigation bar with Bootstrap
+---
+Complete all stages to create a basic navigation bar with Bootstrap.
+
+Add the HTML code for the dropdown menus. For example:
+
+        <ul class="nav navbar-nav">
+        <li><a href="#">Baseball</a></li>
+        <li><a href="#">Football</a>
+          <ul>
+           <li><a href="#">N.F.L.</a></li>
+           <li><a href="#">College Football</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Basketball</a>
+          <ul>
+            <li><a href="#">N.B.A.</a></li>
+            <li><a href="#">College Basketball</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Hockey</a></li>
+        </ul>
+        
+Add the class ‘dropdown’ to the li(s) that hold the dropdown menus:
+
+        <li class="dropdown"><a href="#">Football</a>
+         <ul>...
+         
+Add the class ‘dropdown-toggle’ to the <a> of each li that holds the dropdown menu, as well as data-toggle=”dropdown”:
+
+        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Football</a>
+
+Add the class ‘dropdown-menu’ to the ul that holds the dropdown navigation links:
+
+        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Football</a>
+          <ul class="dropdown-menu">
+
+To add a little down arrow next to each link that opens the dropdown menu add <span class=”caret”></span> next to the link text:
+
+        <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Football<span class="caret"></span></a>
+
+The full code is [here](https://github.com/revitalk/Bootstrap/blob/master/basic-dropdown-nav.html).
