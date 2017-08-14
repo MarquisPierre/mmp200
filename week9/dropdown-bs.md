@@ -4,7 +4,7 @@ site: MMP 200 Multimedia Design
 categories: bootstrap
 title: Basic dropdown navigation bar with Bootstrap
 ---
-*Complete all stages to create a basic navigation bar with Bootstrap.*
+1. Complete [all stages to create a basic navigation bar with Bootstrap](https://revitalk.github.io/mmp200/week9/nav-bar-bs).
 
 1. Add the HTML code for the dropdown menus. For example:
 
