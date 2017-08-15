@@ -1,6 +1,7 @@
 ---
 layout: class
 site: MMP 200 Multimedia Design
+categories: css, typography
 title: CSS and Web Typography
 ---
 <table>
