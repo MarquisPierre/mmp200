@@ -43,4 +43,4 @@ Sans Serif typefaces became popular in 20th century. Their strokes have generall
 
 ![workingman]({{site.url}}/mmp200/assets/workingman.png)
 
-Many have strong and distinct personality and should be selected carefully to fit the message and spirit of the text. Not suitable for paragraph text.
+Many display typefaces have strong and distinct personality and should be selected carefully to fit the message and spirit of the text. Most are not suitable for paragraph text.
