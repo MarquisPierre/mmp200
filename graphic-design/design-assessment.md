@@ -1,6 +1,7 @@
 ---
 layout: class
 site: MMP 200 Multimedia Design
+category: graphic-design
 title: Assessment of Visual Design
 ---
 **Visual hierarchy**
