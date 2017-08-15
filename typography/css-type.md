@@ -26,6 +26,7 @@ title: CSS and Web Typography
 </tr>
 </tbody>
 </table>
+<br><br>
 <ul>
  	<li><a href="https://gist.github.com/3929471">Font linking with @font-face</a></li>
  	<li>Web font services: <a href="http://www.fontsquirrel.com/">Font Squirrel</a>, <a href="http://www.google.com/webfonts">Google fonts</a></li>
