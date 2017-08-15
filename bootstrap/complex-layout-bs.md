@@ -28,7 +28,7 @@ Unless you are using the classes col-xs- all columns collapse in small viewport 
 
 **Nesting columns**
 
-The following code shows how to create a layout similar to the image below. The nested grid is inside one of the columns. Full code is here.
+The following code shows how to create a layout similar to the image below. The nested grid is inside one of the columns. Full code is [here](https://github.com/revitalk/Bootstrap/blob/master/nested-grid.html).
 
 ![nested-grid](nested-grid.gif)
 
