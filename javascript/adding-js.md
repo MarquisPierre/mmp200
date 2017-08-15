@@ -6,7 +6,7 @@ title: How to add JavaScript to HTML code
 ---
 JavaScript is a scripting language that is being interpreted by the browser (the browser is also called the ‘client’, which is why JavaScript is considered ‘client-side’ language.)
 
-JavaScript can be typed in the HTML file inside the *script* tags, such as:
+JavaScript can be typed in the HTML file inside the <script> tags, such as:
 
         <script type="text/javascript">
           function newWindow(webURL){
