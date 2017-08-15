@@ -15,6 +15,7 @@ Typeface designs may be divided into these broad categories:
 
 Many serif typefaces take after typeface design originated in 15th-18th centuries in Europe and have strong caligraphic roots. Strokes have varying thickness and little endings called serifs.
 
+-------
 
 **Slab-Serif Typefaces**
 -----------
@@ -22,6 +23,7 @@ Many serif typefaces take after typeface design originated in 15th-18th centurie
 
 The strokes od slab serif typefaces have generally uniform thickness. Letters have straight, thick and block-like serifs.
 
+---------
 
 **Sans-Serif Typefaces**
 -----------
@@ -29,6 +31,7 @@ The strokes od slab serif typefaces have generally uniform thickness. Letters ha
 
 Sans Serif typefaces became popular in 20th century. Their strokes have generally uniform thickness and no serifs.
 
+------------
 
 **Display and decorative Typefaces**
 ------------
