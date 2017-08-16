@@ -73,10 +73,15 @@ Upload your prototype to the server and test it on as many devices as you can (y
 
 You must make a case for the effectiveness of your design.
 
-**Grading:**
+**Grading**
+---
 1.	Brief: 10%
 2.	Sitemap: 20%
 3.	Sketches: 10%
 4.	Mockups: 20%
 5.	Final page: 30%
 6.	Class presentation: 10%
+
+**Submissions**
+---
+Creative brief, sitemap, sketches (scanned), mockups and URL of the site's homepage should be submitted as one PDF file.
