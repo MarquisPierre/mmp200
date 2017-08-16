@@ -8,7 +8,7 @@ title: Midterm Assignment- Website Planning and Design
 
 **STEP 1: Identify site goals and requirements**
 ------------------------------------------------
-**Deliverable:** [Project Brief](creative-brief.docx)
+**Deliverable:** [Creative Brief](festival-brief.md)
 
 
 **STEP 2: Plan the content and its structure for your music festival site**
