@@ -4,7 +4,9 @@ site: MMP 200 Multimedia Design
 title: Midterm Assignment- Website Planning and Design
 ---
 
-**Task:** Plan, design and prototype a website for a music festival. Visitors to the site should get excited about the festival, easily figure out the festival’s dates, location and how to buy tickets, and find out the line-ups and other activities.
+**Learning Objectives:** practice organizing information, web interface and visual design for a user-first web experience.
+
+**Task:** plan, design and prototype a website for a music festival. Visitors to the site should get excited about the festival, easily figure out the festival’s dates, location and how to buy tickets, and find out the line-ups and other activities.
 
 **STEP 1: Identify site goals and requirements**
 ------------------------------------------------
