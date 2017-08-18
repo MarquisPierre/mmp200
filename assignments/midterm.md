@@ -56,6 +56,7 @@ Based on your sketches design two mockups for your music festival site in Photos
 - Actual text
 - Actual images
 
+**Deliverable:** mockups for the homepage in desktop and mobile versions.
 
 **STEP 4: HTML Production**
 --------------------------------
@@ -69,6 +70,7 @@ Write the HTML and CSS code to re-create the homepage based on mockup.
 
 Upload your prototype to the server and test it on as many devices as you can (you can go to a phone store and test it there on multiple devices). If a design element does not work well on a phone or tablet make changes to your design and test again.
 
+**Deliverable:** URL.
 
 **Class presentation** 
 --------------------------------
