@@ -1,6 +1,6 @@
 ---
 layout: class
-site: MMP 460 Multimedia Project Lab
+site: MMP 200 Multimedia Design
 title: Music Festival Website Creative Brief
 ---
 
