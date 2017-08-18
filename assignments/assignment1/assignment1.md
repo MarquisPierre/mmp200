@@ -5,7 +5,7 @@ title: Assignment 1 – Basic HTML5 & CSS
 ---
 
 
-**Purpose:** learn the basics of HTML5 markup and CSS.
+**Learning objectives:** practice coding basic HTML5 markup and CSS.
 
 **Goal:** create a simple website for the MEA department that provides information about the 3 majors offered by the department.
 
