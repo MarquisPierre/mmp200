@@ -4,11 +4,15 @@ site: MMP 200 Multimedia Design
 title: Block-Level Vs. Inline elements
 ---
 
-**Block-level** elements define blocks of content in the page and by default always start in a new line. Examples of block level elements are paragraphs, lists, headings and div elements.
+**Block-level** are HTML elements that occupy a full horizontal line on the page. They always start in a new line. 
 
-**Inline elements** define sections within the block-level elements and by default continue the line of the parent element.
+**Inline elements** are HTML elements that are laid out side by side.
 
-Block or Inline are behaviors that are applied with CSS. However, browsers browsers' defaults CSS define all HTML elements as either inline or block. You can overide this definition in your own CSS file.
+Block or Inline are behaviors that are applied with CSS using the display property. For example,
+        
+        display: block;
 
-It is important to distinguish between block-level and inline tags, as some CSS properties behave differently when applied to block-level and inline elements. For example, you cannot change the width of an inline element with css, the way it is possible for block-level elements.
+However, browsers pre-define all HTML elements as either inline or block. For example, browsers define P, DIV and H1-H6 as block levels, and IMG and SPAN as inline. You can overide this definition in your own CSS file.
+
+It is important to distinguish between block-level and inline tags, as some CSS properties behave differently when applied to block-level and inline elements. For example, you can set the width of a block-level element with CSS, which you cannot do for an inline element.
 
