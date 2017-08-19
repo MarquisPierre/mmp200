@@ -4,7 +4,7 @@ site: MMP 200 Multimedia Design
 title: Contact Information
 ---
 
-Email me at profkaisar@gmail.com. Please include your full name in the email.
+Email me at *profkaisar at gmail dot com*. Please include your full name in the email.
 
 I am available during office hours @ S622F.
 
