@@ -16,5 +16,5 @@ Block or Inline are behaviors that are applied with CSS using the display proper
         
 However, browsers pre-define all HTML elements as either inline or block. For example, browsers define P, DIV and H1-H6 as block levels, and IMG and SPAN as inline. You can overide this definition in your own CSS file.
 
-It is important to distinguish between block-level and inline tags, as some CSS properties behave differently when applied to block-level and inline elements. For example, you can set the width of a block-level element with CSS, which you cannot do for an inline element.
+Some CSS properties behave differently when applied to block-level and inline elements. For example, you can set the width of a block-level element with CSS, which you cannot do for an inline element.
 
