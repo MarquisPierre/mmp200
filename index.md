@@ -91,7 +91,7 @@ title: Schedule
 - [Midterm project](assignments/midterm.md) step 3
 - Mockup presentations
 
-**Read:** [Organizing the Page:Layout of Page Elements](https://www.safaribooksonline.com/library/view/designing-interfaces/0596008031/ch04.html)
+**Read:** [Organizing the Page: Layout of Page Elements](https://www.safaribooksonline.com/library/view/designing-interfaces/0596008031/ch04.html)
 
 --------------------------
 
@@ -100,7 +100,7 @@ title: Schedule
 - [CSS layout with Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
 - [Viewport and Media Queries](css/viewport-media-queries.md) 
 - Mobile-first web development
-- CSS Dropdown Menu
+- CSS Dropdown Menu ([code]({{site-url}}/mmp200/blob/master/css/css-dropdown-menu.html))
 
 **Assignment:** [Midterm project](assignments/midterm.md) step 4
 
