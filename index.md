@@ -127,7 +127,11 @@ title: Schedule
 --------------------------
 
 ### Week 8
-**App idea and prototype**
+**App Concept Development**
+<iframe src="https://player.vimeo.com/video/52861634" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+- User flow
+
+**Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work
 
 --------------------------
 
@@ -140,6 +144,8 @@ title: Schedule
 - Mental Model and Conceptual Models
 - Responsive design patterns
 - Sketches and Wireframes
+
+**Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work and presentations
 
 --------------------------
 
