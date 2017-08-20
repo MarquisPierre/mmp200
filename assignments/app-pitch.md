@@ -12,7 +12,7 @@ title: Pitch an App
 **Task**: propose an idea for a web or mobile app that can help solve a specific problem, or make a task easier, for a specific group of people. 
 
 **Steps**
-1. Describe the problem or task that the app will help solve.
+1. Describe the problem or task that the app will help solve
 1. Describe the target audience for the app. Who are the people who are most likely to benefit from it?
 1. Explain how your app will help these people with the problem or task
 1. List current websites or apps that would be close competitors
