@@ -5,7 +5,7 @@ title: Types of Navigation
 ---
 ### Main Navigation
 
-![main navigation](main-nav.gif)
+![cuny navigation](cuny-nav.gif)
 
 - The main navigation lets visitors know what is available on the site.
 - It allows people to quickly switch to different sections of the site.
