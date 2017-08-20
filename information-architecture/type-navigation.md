@@ -4,7 +4,7 @@ site: MMP 200 Multimedia Design
 title: Types of Navigation
 ---
 
-<img src="cuny-nav.gif" style="float:right">
+<img src="cuny-nav.gif" style="float:right;">
 
 ### Main Navigation
 
