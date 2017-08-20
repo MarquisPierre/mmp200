@@ -25,7 +25,7 @@ title: Types of Navigation
 
 **Embedded navigation**
 
-<img src="embedded-nav.gif" style="float:left;")
+![embedded navigation](embedded-nav.gif)
 
 - Contextual navigation may be embedded within the text itself.
 - Contextual navigation is often represented as plain text links.
