@@ -8,13 +8,11 @@ title: Midterm Assignment- Website Planning and Design
 
 **Task:** plan, design and prototype a *responsive* website for a music festival. Visitors to the site should get excited about the festival, easily figure out the festival’s dates, location and how to buy tickets, and find out the line-ups and other activities.
 
-**STEP 1: Identify site goals and requirements**
-------------------------------------------------
+### STEP 1: Identify site goals and requirements
+ 
 **Deliverable:** [Creative Brief](festival-brief.md)
 
-
-**STEP 2: Plan the content and its structure for your music festival site**
---------------------------------------
+### STEP 2: Plan the content and its structure for your music festival site
 
 Your website will include the following information:
 - Date time and location of the festival
@@ -43,8 +41,7 @@ Your website will include the following information:
 1. A sitemap in a form of a flowchart
 2. Neat sketches of wireframe designs for the homepage, for mobile devices and desktops (2 sketches in total). Sketches can be done on the computer or neatly by hand.
 
-**STEP 3: Visual Design**
---------------------------------------
+### STEP 3: Visual Design
 
 Based on your sketches design two mockups for your music festival site in Photoshop, one for desktop size screens and one for mobile size screens (portrait). Your mockup should look like a complete finished homepage and must include:
 - Overall style that is consistent with the music genre and theme of your music festival
@@ -58,8 +55,7 @@ Based on your sketches design two mockups for your music festival site in Photos
 
 **Deliverable:** mockups for the homepage in desktop and mobile versions.
 
-**STEP 4: HTML Production**
---------------------------------
+### STEP 4: HTML Production
 
 Write the HTML and CSS code to re-create the homepage based on mockup.
 - Must adjust to at least two screen sizes: mobile and desktop
@@ -72,13 +68,12 @@ Upload your prototype to the server and test it on as many devices as you can (y
 
 **Deliverable:** URL.
 
-**Class presentation** 
---------------------------------
+### Class presentation
 
 You must make a case for the effectiveness of your design.
 
-**Grading**
----
+### Grading
+
 1.	Brief: 10%
 2.	Sitemap: 20%
 3.	Sketches: 10%
@@ -86,6 +81,6 @@ You must make a case for the effectiveness of your design.
 5.	Final page: 30%
 6.	Class presentation: 10%
 
-**Submissions**
----
+### Submissions
+
 Creative brief, sitemap, sketches (scanned), mockups and URL of the site's homepage should be submitted as one PDF file.
