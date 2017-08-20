@@ -7,7 +7,7 @@ title: Schedule
 
 --------------------
 
-## Week 1
+### Week 1
 
 **Review: HTML**
 * HTML Syntax
@@ -37,7 +37,7 @@ title: Schedule
 
 --------------------------
 
-## Week 2
+### Week 2
 **Intro to CSS**
 - [Types of CSS](css/css-types.md)
 - [How to write CSS](css/writing-css.md)
@@ -56,7 +56,7 @@ title: Schedule
 
 --------------------------
 
-## Week 3
+### Week 3
 **Planning a Web Project**
 - [The design process](http://zurb.com/word/design-process)
     - [Agile web development](https://webdesign.tutsplus.com/articles/a-designers-introduction-to-agile-methodology--cms-23349)
@@ -76,7 +76,7 @@ title: Schedule
 
 --------------------------
 
-## Week 4
+### Week 4
 **Visual Design**
 - Web typography
     - [Broad typeface categories]({{site.url}}/mmp200/typography/type-categories)
@@ -96,19 +96,19 @@ title: Schedule
 
 --------------------------
 
-## Week 5
+### Week 5
 **CSS Responsive Layout**
 - [CSS layout with Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
 - [Viewport and Media Queries](css/viewport-media-queries.md) 
 - Mobile-first web development
 - CSS Dropdown Menu ([code]({{site-url}}/mmp200/blob/master/css/css-dropdown-menu.html))
-
+**Class Exercise:**
 **Assignment:** [Midterm project](assignments/midterm.md) step 4
 **Read:** [What is Responsive Design](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449362942_sampler.pdf)
 
 --------------------------
 
-## Week 6
+### Week 6
 **Midterm Production**
 - Embedding fonts with CSS
 - CSS enhancements
@@ -117,14 +117,18 @@ title: Schedule
 
 --------------------------
 
-## Week 7
+### Week 7
 **Midterm Presentations**
 
 --------------------------
 
-## Week 8
+### Week 8
+**App idea and prototype**
+
+--------------------------
+
+## Week 9
 **Interface Design**
-- Assignment: app design
 - Visual hierarchy
 - Entry Point
 - Affordances
@@ -135,7 +139,7 @@ title: Schedule
 
 --------------------------
 
-## Week 9
+## Week 10
 **Bootstrap Web Development**
 - Using a CSS feamework- advantages and drawbacks
 - [Download and learn about Bootstrap](http://getbootstrap.com/)- the most popular CSS framework
@@ -144,7 +148,8 @@ title: Schedule
 - [Dropdown menu with Bootstrap]({{site.url}}/mmp200/bootstrap/dropdown-bs)
 - [Bootstrap's slideshow]({{site.url}}/mmp200/bootstrap/carousel-bs)
 - [More Bootstrap code samples](https://github.com/revitalk/Bootstrap)
-
+**Class Exercise:**
+assignment: prototyping app
 --------------------------
 
 ## Week 10
