@@ -66,6 +66,7 @@ title: Schedule
 - [Information Architecture]({{site.url}}/mmp200/information-architecture/information-architecture)
     - [The creative Brief]({{site.url}}//mmp200/assignments/festival-brief)
     - [Sitemap](information-architecture/sitemap.md)
+    - [Designing navigation](information-architecture/nav-type.md)
 
 **Assignment:** [Midterm project](assignments/midterm.md) steps 1 and 2
 
@@ -103,6 +104,7 @@ title: Schedule
 - CSS Dropdown Menu ([code]({{site-url}}/mmp200/blob/master/css/css-dropdown-menu.html))
 
 **Assignment:** [Midterm project](assignments/midterm.md) step 4
+**Read:** [What is Responsive Design](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449362942_sampler.pdf)
 
 --------------------------
 
