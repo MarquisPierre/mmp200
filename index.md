@@ -88,6 +88,10 @@ title: Schedule
     - [Grid]({{site.url}}/mmp200/graphic-design/grid)
 - Creating mockups in Photoshop
 
+**Inspiration**
+- http://www.panorama.nyc/
+- https://fireflyfestival.com/
+
 **Assignment** 
 - [Midterm project](assignments/midterm.md) step 3
 - Mockup presentations
@@ -127,7 +131,7 @@ title: Schedule
 
 --------------------------
 
-## Week 9
+### Week 9
 **Interface Design**
 - Visual hierarchy
 - Entry Point
@@ -139,7 +143,7 @@ title: Schedule
 
 --------------------------
 
-## Week 10
+### Week 10
 **Bootstrap Web Development**
 - Using a CSS feamework- advantages and drawbacks
 - [Download and learn about Bootstrap](http://getbootstrap.com/)- the most popular CSS framework
@@ -152,14 +156,14 @@ title: Schedule
 assignment: prototyping app
 --------------------------
 
-## Week 10
+### Week 10
 **Responsive Design Patterns**
 - 
 - 
 
 --------------------------
 
-## Week 11
+### Week 11
 **Planning an interactive site**
 - Developing project requirements
 Personas
@@ -170,29 +174,29 @@ Personas
 
 --------------------------
 
-## Week 12
+### Week 12
 **Scenarios and workflows**
 - Flowcharts
 - Axure prototype
 
 --------------------------
 
-## Week 13
+### Week 13
 **CSS & Bootstrap Production**
 
 --------------------------
 
-## Week 14
+### Week 14
 **Production Lab**
 - bring your questions to class!
 --------------------------
 
-## Week 15
+### Week 15
 **Critiques**
 - Testing and assessment
 - Revisions
 
 --------------------------
 
-## Exam Week
+### Exam Week
 **Final presentations**
