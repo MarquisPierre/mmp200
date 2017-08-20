@@ -3,9 +3,10 @@ layout: class
 site: MMP 200 Multimedia Design
 title: Types of Navigation
 ---
-### Main Navigation
 
 ![cuny navigation](cuny-nav.gif)
+
+### Main Navigation
 
 - The main navigation lets visitors know what is available on the site.
 - It allows people to quickly switch to different sections of the site.
