@@ -77,14 +77,15 @@ title: Schedule
 
 ## Week 4
 **Visual Design**
-- Web Typography
+- Web typography
     - [Broad typeface categories]({{site.url}}/mmp200/typography/type-categories)
     - [Great free fonts]({{site.url}}/mmp200/typography/great-free-fonts)
-    - [CSS Typography]({{site.url}}/mmp200/typography/css-type)
-- Layout Desgin
+    - [CSS typography]({{site.url}}/mmp200/typography/css-type)
+- [Basics of color]({{site.url}}/mmp200/graphic-design/color)
+- Layout desgin
     - [Visual Hierarchy](http://www.gdbasics.com/html/hierarchy/hierarchy.html)
     - [Grid]({{site.url}}/mmp200/graphic-design/grid)
-- Creating Mockups in Photoshop
+- Creating mockups in Photoshop
 
 **Assignment** 
 - [Midterm project](assignments/midterm.md) step 3
@@ -98,7 +99,7 @@ title: Schedule
 **CSS Responsive Layout**
 - [CSS layout with Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
 - [Viewport and Media Queries](css/viewport-media-queries.md) 
-- mobile-first web development
+- Mobile-first web development
 - CSS Dropdown Menu
 
 **Assignment:** [Midterm project](assignments/midterm.md) step 4
