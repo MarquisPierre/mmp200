@@ -15,8 +15,6 @@ title: Types of Navigation
 
 ### Local Navigation
 
-![local navigation](local-nav.gif)
-
 - Local navigation provides access to other options within one category, at one level of a hierarchy.
 - local navigation should be designed differently than the main navigation to reinforces its secondary nature.
 - Local navigation exposes the granularity and depth of the topic at hand.
@@ -25,20 +23,14 @@ title: Types of Navigation
 
 **Embedded navigation**
 
-![embedded navigation](embedded-nav.gif)
-
 - Contextual navigation may be embedded within the text itself.
 - Contextual navigation is often represented as plain text links.
 
 **Related links**
 
-![Related links](related-links.gif)
-
 Contextual navigation may appear as a sidebar.
 
 ### Footer Navigation
-
-![footer navigation](footer-nav.gif)
 
 - footer navigation is located at the bottom of the page and is usually represented by text links.
 - It usually links to additional information outside the main topic of the site, such as copyright information, terms and conditions, and site credits.
