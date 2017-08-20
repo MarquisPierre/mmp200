@@ -7,6 +7,7 @@ title: Color schemes
 Color sets the mood and tone of the website. Moreover, a well defined color scheme takes crucial part in exposing  and reinforcing the hierarchy inherent in the content and supporting the page layout.
 
 **Understanding color**
+---
 
 The three components of color are:
 - **Hue** refers to the actual color.
@@ -29,6 +30,7 @@ In most cases highly bright and saturated colors are better used along with less
 ![color scheme](color-scheme.gif)
 
 **Color Temperature**
+---
 
 Another quality to consider when combining colors is **temperature**. 
 - **Warm colors** are the colors of fire: yellow, orange and red. 
