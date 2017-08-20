@@ -47,7 +47,7 @@ title: Schedule
     - [Which CSS measurements to use when](http://thenewcode.com/775/Which-CSS-Measurements-To-Use-When)
 - [Block-level and Inline elements]({{site.url}}/mmp200/css/block-inline)
    
-**Adaptive Page Width and Typography**
+**Adaptive Sizing and Typography**
 - The [width](https://developer.mozilla.org/en-US/docs/Web/CSS/width) and [max-width](https://developer.mozilla.org/en-US/docs/Web/CSS/max-width) properties
 - [em](https://www.sitepoint.com/power-em-units-css/), [rem](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/) and percentage CSS units 
 - [Viewport and Media Queries](css/viewport-media-queries.md) 
@@ -97,9 +97,8 @@ title: Schedule
 ## Week 5
 **CSS Responsive Layout**
 - [CSS layout with Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
-- CSS responsive layout
-    - [Viewport and Media Queries](css/viewport-media-queries.md) 
-    - mobile-first web development
+- [Viewport and Media Queries](css/viewport-media-queries.md) 
+- mobile-first web development
 - CSS Dropdown Menu
 
 **Assignment:** [Midterm project](assignments/midterm.md) step 4
