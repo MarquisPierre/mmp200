@@ -8,8 +8,7 @@ title: Broad Typeface Categories
 Typeface designs may be divided into these broad categories:
 
 
-**Serif Typefaces**
-------------
+## Serif Typefaces
 
 ![serif]({{site.url}}/mmp200/assets/serif.png)
 
@@ -17,24 +16,24 @@ Many serif typefaces take after typeface design originated in 15th-18th centurie
 
 -------
 
-**Slab-Serif Typefaces**
------------
+## Slab-Serif Typefaces
+
 ![slab]({{site.url}}/mmp200/assets/slab.png)
 
 The strokes od slab serif typefaces have generally uniform thickness. Letters have straight, thick and block-like serifs.
 
 ---------
 
-**Sans-Serif Typefaces**
------------
+## Sans-Serif Typefaces
+
 ![sans]({{site.url}}/mmp200/assets/sans.png)
 
 Sans Serif typefaces became popular in 20th century. Their strokes have generally uniform thickness and no serifs.
 
 ------------
 
-**Display and decorative Typefaces**
-------------
+## Display and decorative Typefaces
+
 ![preacher]({{site.url}}/mmp200/assets/preacher.png)
 
 ![thrombolus]({{site.url}}/mmp200/assets/thrombolus.png)
