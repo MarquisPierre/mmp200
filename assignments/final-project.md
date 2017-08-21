@@ -4,25 +4,30 @@ site: MMP 200 Multimedia Design
 title: Final project
 ---
 
-The final project must we a website that accommodates a specific need(s) of **several** defined target audience groups, and that is relatively information-dense. Examples:
+**Learning Objectives:** synthesis learning
+
+**Task**
+Plan, design and prototype a website that accommodates specific needs of **several** defined target audience groups, and that is relatively information-dense. You can continue work on the app that you pitched in the previous assignment if it meets these requirements, or youExamples:
 - FreeNYC: a website that serve as a resource for free or inexpensive fun events and places in NYC AND allows multiple ways to search things to do in the city.
 - Dinner-every-night is a website that serve as a resource for easy weeknight recipes AND allows multiple ways to research for a recipe, such as, by ingredient, by cuisine, etc..
 
-Stage 1: Definition
+### Stage 1: Definition
 
-Define target audience group. You must have several! Write a persona for one person from each of the audience groups.
-Develop project requirements – write a project brief.
-Write a persona for each target audience group.
+- Define target audience group. You must have at least two!
+- Develop project requirements – write a project brief.
+- Write a persona for each target audience group.
 
-Stage 2: Information Architecture
+Deliverable: creative brief
+
+### Stage 2: Information Architecture
 
 Based on your scenarios, and what you learned about your target audiences’ needs, organize the content into pages, label the pages, and design navigation bars. Represent the site’s structure and navigation bar in a  sitemap.
 
-Deliverable: Sitemap
+Deliverable: sitemap
 
-Stage 3. Prototype and Assess
+### Stage 3. Prototype and Assess
 
-Sketch interfaces for key pages foe desktop and mobile. Prototype with Bootstrap.
+Sketch interfaces for key pages for desktop and mobile. Prototype with Bootstrap.
 
 Deliverables: sketches, prototype. Class presentations of prototypes.
 
