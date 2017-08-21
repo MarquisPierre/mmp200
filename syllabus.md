@@ -6,9 +6,9 @@ title: MMP 200 Syllabus
    
 <strong>MMP 200 -  Multimedia Design</strong>
 <br>3 credits, 2 hours lecture, 2 hour lab
-<h2>COURSE DESCRIPTION</h2>
+<h3>COURSE DESCRIPTION</h3>
 Building on the principles learned in introduction to multimedia, students will learn to manipulate graphics and text in more sophisticated ways for use in print layout as well as multimedia. An emphasis will be placed on design concepts for the creation of pages.
-<h2>PREREQUISITES:</h2>
+<h3>PREREQUISITES</h3>
 MMP 100
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -42,27 +42,29 @@ MMP 100
 </tr>
 </tbody>
 </table>
-<h2>REQUIRED TEXT</h2>
+<h3>REQUIRED TEXT</h3>
 <ul>
 	<li>HTML5 &amp; CSS3 Visual QuickStart Guide, 7th Edition, by Elizabeth Castro &amp; Bruce Hyslop</li>
 	<li>Online text will be assigned</li>
 </ul>
-<h2>OTHER REQUIRED RESOURCES</h2>
+<h3>OTHER REQUIRED RESOURCES</h3>
 <ul>
 	<li>A USB drive or an online storage account.</li>
 	<li>A FREE account on <a href="http://www.gliffy.com">Gliffy</a></li>
 </ul>
-<h2>USE OF TECHNOLOGY</h2>
+<h3>USE OF TECHNOLOGY</h3>
 <ul type="disc">
 	<li>Students will use computers and Adobe software to work on web design projects in class.</li>
 	<li>A class website is available.</li>
 </ul>
-<h2>REQUIREMENTS &amp; EVALUATION OF STUDENTS</h2>
+<h3>REQUIREMENTS &amp; EVALUATION OF STUDENTS</h3>
 Grades will be decided based on timely submission, efforts and results of assignments.
 <ul>
-	<li>Assignment 1: 10%</li>
-	<li>Assignments 2-6: 40%</li>
-	<li>Final Project::40%</li>
+	<li>Assignment 1: 5%</li>
+	<li>Midterm: 30%</li>
+	<li>Portfolio: 10%</li>
+	<li>Pitch an app: 15%</li>
+	<li>Final project::30%</li>
 	<li>Class participation: 10%</li>
 </ul>
 Below are the college’s general education learning outcomes, the outcomes that checked in the left-hand column indicate goals that will be covered and assessed in this course. (Check at least one.)
@@ -102,7 +104,7 @@ Below are the college’s general education learning outcomes, the outcomes that
 </tr>
 </tbody>
 </table>
-<h2>COLLEGE ATTENDANCE POLICY</h2>
+<h3>COLLEGE ATTENDANCE POLICY</h3>
 At BMCC, the maximum number of absences is limited to one more class hour than the contact hours as indicated in the BMCC college catalog.  For example, you may be enrolled in a four-hour class that meets four times a week. You are allowed five hours of absence, not five days.  In the case of excessive absence, the instructor has the option to lower the grade or assign an F or WU grade.
 <h2>ACADEMIC ADJUSTMENTS FOR STUDENTS WITH DISABILITIES</h2>
 Students with disabilities who require reasonable accommodations or academic adjustments for this course must contact the Office of Services for Students with Disabilities.  BMCC is committed to providing equal access to all programs and curricula to all students.
