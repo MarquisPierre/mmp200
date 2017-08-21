@@ -64,7 +64,7 @@ Grades will be decided based on timely submission, efforts and results of assign
 	<li>Midterm: 30%</li>
 	<li>Portfolio: 10%</li>
 	<li>Pitch an app: 15%</li>
-	<li>Final project::30%</li>
+	<li>Final project: 30%</li>
 	<li>Class participation: 10%</li>
 </ul>
 Below are the college’s general education learning outcomes, the outcomes that checked in the left-hand column indicate goals that will be covered and assessed in this course. (Check at least one.)
