@@ -106,9 +106,9 @@ Below are the college’s general education learning outcomes, the outcomes that
 </table>
 <h3>COLLEGE ATTENDANCE POLICY</h3>
 At BMCC, the maximum number of absences is limited to one more class hour than the contact hours as indicated in the BMCC college catalog.  For example, you may be enrolled in a four-hour class that meets four times a week. You are allowed five hours of absence, not five days.  In the case of excessive absence, the instructor has the option to lower the grade or assign an F or WU grade.
-<h2>ACADEMIC ADJUSTMENTS FOR STUDENTS WITH DISABILITIES</h2>
+<h3>ACADEMIC ADJUSTMENTS FOR STUDENTS WITH DISABILITIES</h3>
 Students with disabilities who require reasonable accommodations or academic adjustments for this course must contact the Office of Services for Students with Disabilities.  BMCC is committed to providing equal access to all programs and curricula to all students.
-<h2>BMCC POLICY ON PLAGIARISM AND ACADEMIC INTEGRITY STATEMENT</h2>
+<h3>BMCC POLICY ON PLAGIARISM AND ACADEMIC INTEGRITY STATEMENT</h3>
 Plagiarism is the presentation of someone else’s ideas, words or artistic, scientific, or technical work as one’s own creation.  Using the idea or work of another is permissible only when the original author is identified.  Paraphrasing and summarizing, as well as direct quotations, require citations to the original source.  Plagiarism may be intentional or unintentional.  Lack of dishonest intent does not necessarily absolve a student of responsibility for plagiarism.
 
 Students who are unsure how and when to provide documentation are advised to consult with their instructors.  The library has guides designed to help students to appropriately identify a cited work.  The full policy can be found on BMCC’s web side, www.bmcc.cuny.edu. For further information on integrity and behavior, please consult the college bulletin (also available online).
