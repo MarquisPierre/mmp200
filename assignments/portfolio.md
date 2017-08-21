@@ -14,7 +14,7 @@ Create a simple portfolio website for the work you have done in this class using
 - a statement about the nature/purpose of the website
 - an original image, artwork or anything else that can serve as an entry point in the homepage
 - a navigation bar
-- links to all work done in class- plan for 2 additional projects.
+- links to all work done in class, including written submissions, such as creative briefs and sitemaps. Plan for 2 additional projects to add later.
 - your contact information
 
 The website must be fully responsive.
