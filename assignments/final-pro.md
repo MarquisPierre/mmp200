@@ -17,26 +17,27 @@ title: Final Project
 ### Stage 1: Definition
 
 - Define and research target audience groups. You must have at least two!
-- Develop specific project requirements.
+- Develop specific project requirements
 
 **Deliverables**
-- Creative Brief
+- [Creative Brief](brief.md)
 - A persona for each audience group
 - A scenario for each persona
 
 ### Stage 2: Information Architecture
 
-Based on your scenarios, and what you learned in your research about your target audiences’ needs, organize the content into pages, label the pages, and design navigation bars. Represent the site’s structure and navigation bar in a  sitemap.
+Based on your scenarios, and what you learned in your research about your target audiences, organize the content into pages, label the pages, and design navigation bars. Represent the site’s structure and navigation bar in a  sitemap and sketch an interface.
 
 **Deliverables** 
-- Sitemap and 
+- Sitemap  
 - Sketches of interface of key pages
 
 ### Stage 3: Prototype and Assess
 
-Sketch interfaces for key pages foe desktop and mobile. Prototype with Bootstrap.
+Prototype with Bootstrap.
 
-Deliverables: sketches, prototype. Class presentations of prototypes.
+Deliverables: Bootstrap prototype.
+Class presentations of prototypes
 
 ### Stage 4: Visual Design
 
@@ -51,3 +52,5 @@ Design the look and feel of the website. Your design choices must include:
 Deliverable: a mockup of the homepage.
 
 ### Stage 4: Production
+
+
