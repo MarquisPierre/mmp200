@@ -165,7 +165,7 @@ title: Schedule
 **Responsive Design Patterns**
 - 
 - 
-**Assignment:** [class portfolio]({{site.url}}/mmp200/assignments/portfolio.md)
+**Assignment:** [class portfolio]({{site.url}}/mmp200/assignments/portfolio)
 
 --------------------------
 
@@ -175,7 +175,7 @@ title: Schedule
 - Personas
 - Sitemaps
 
-**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro.md)
+**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro)
 
 --------------------------
 
@@ -184,14 +184,14 @@ title: Schedule
 - Scenarios
 - Sketching
 
-**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro.md)
+**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro)
 
 --------------------------
 
 ### Week 13
 **CSS & Bootstrap Production**
 
-**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro.md) prototyping
+**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) prototyping
 
 --------------------------
 
@@ -199,7 +199,7 @@ title: Schedule
 **Production Lab**
 - bring your questions to class!
 
-**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro.md) production
+**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) production
 
 --------------------------
 
@@ -208,7 +208,7 @@ title: Schedule
 - Testing and assessment
 - Revisions
 
-**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro.md) production
+**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) production
 
 --------------------------
 
