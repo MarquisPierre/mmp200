@@ -107,6 +107,8 @@ Grades will be decided based on timely submission, efforts and results of assign
 <strong>Prototyping with CSS frameworks/Bootstrap</strong>
 
 <strong>Using Bootstrap components and jQuery plugins.</strong>
+<hr>
+
 Below are the college’s general education learning outcomes, the outcomes that checked in the left-hand column indicate goals that will be covered and assessed in this course. (Check at least one.)
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
