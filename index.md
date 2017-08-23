@@ -165,7 +165,7 @@ title: Schedule
 **Responsive Design Patterns**
 - 
 - 
-**Assignment:** [class portfolio]({{site.url))/mmp200/assignments/portfolio.md)
+**Assignment:** [class portfolio]({{site.url}}/mmp200/assignments/portfolio.md)
 
 --------------------------
 
