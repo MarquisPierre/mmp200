@@ -175,7 +175,7 @@ title: Schedule
 - Personas
 - Sitemaps
 
-**Assignment:** [Final project]({{site.url))/mmp200/assignments/final-pro.md)
+**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro.md)
 
 --------------------------
 
@@ -184,14 +184,14 @@ title: Schedule
 - Scenarios
 - Sketching
 
-**Assignment:** [Final project]({{site.url))/mmp200/assignments/final-pro.md)
+**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro.md)
 
 --------------------------
 
 ### Week 13
 **CSS & Bootstrap Production**
 
-**Assignment:** [Final project]({{site.url))/mmp200/assignments/final-pro.md) prototyping
+**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro.md) prototyping
 
 --------------------------
 
@@ -199,7 +199,7 @@ title: Schedule
 **Production Lab**
 - bring your questions to class!
 
-**Assignment:** [Final project]({{site.url))/mmp200/assignments/final-pro.md) production
+**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro.md) production
 
 --------------------------
 
@@ -208,7 +208,7 @@ title: Schedule
 - Testing and assessment
 - Revisions
 
-**Assignment:** [Final project]({{site.url))/mmp200/assignments/final-pro.md) production
+**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro.md) production
 
 --------------------------
 
