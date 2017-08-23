@@ -4,6 +4,12 @@
 @import "{{ site.theme }}";
 
 h1.project-name{
+  float:left;
+  font-size:2.5em;
+  font-weight:normal;
+}
+nav.site-header{
+  float:right;
 }
 nav.site-header ul{
   margin:0;
