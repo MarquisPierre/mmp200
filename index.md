@@ -20,7 +20,7 @@ title: Schedule
     - HTML5 text elements: p, strong, em, br, [blockquote and q]({{site.url}}/mmp200/html/quoting)
     - HTML list elements: ul, ol, li
     - [Elements to mark emphasis]({{site.url}}/mmp200/html/emphasis)
-    - The div and span elements.
+    - The div and span elements
   
 **Publishing on Github Pages** 
 - Sign up to get a FREE [Github](https://github.com/) account
@@ -105,7 +105,7 @@ title: Schedule
 - [CSS layout with Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
 - [Viewport and Media Queries](css/viewport-media-queries.md) 
 - Mobile-first web development
-- CSS Dropdown Menu ([code]({{site-url}}/mmp200/blob/master/css/css-dropdown-menu.html))
+- CSS Dropdown Menu ([code](https://github.com/revitalk/mmp200/blob/master/css/css-dropdown-menu.html))
 **Class Exercise:**
 **Assignment:** [Midterm project](assignments/midterm.md) step 4
 **Read:** [What is Responsive Design](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449362942_sampler.pdf)
@@ -158,43 +158,49 @@ title: Schedule
 - [Dropdown menu with Bootstrap]({{site.url}}/mmp200/bootstrap/dropdown-bs)
 - [Bootstrap's slideshow]({{site.url}}/mmp200/bootstrap/carousel-bs)
 - [More Bootstrap code samples](https://github.com/revitalk/Bootstrap)
-**Class Exercise:**
-assignment: prototyping app
+
 --------------------------
 
 ### Week 10
 **Responsive Design Patterns**
 - 
 - 
+**Assignment:** [class portfolio]({{site.url))/mmp200/assignments/portfolio.md)
 
 --------------------------
 
 ### Week 11
 **Planning an interactive site**
 - Developing project requirements
-Personas
+- Personas
 - Sitemaps
-- Wireframes
-- 
-- **Assignment:** Final project
+
+**Assignment:** [Final project]({{site.url))/mmp200/assignments/final-pro.md)
 
 --------------------------
 
 ### Week 12
 **Scenarios and workflows**
-- Flowcharts
-- Axure prototype
+- Scenarios
+- Sketching
+
+**Assignment:** [Final project]({{site.url))/mmp200/assignments/final-pro.md)
 
 --------------------------
 
 ### Week 13
 **CSS & Bootstrap Production**
 
+**Assignment:** [Final project]({{site.url))/mmp200/assignments/final-pro.md) prototyping
+
 --------------------------
 
 ### Week 14
 **Production Lab**
 - bring your questions to class!
+
+**Assignment:** [Final project]({{site.url))/mmp200/assignments/final-pro.md) production
+
 --------------------------
 
 ### Week 15
@@ -202,7 +208,10 @@ Personas
 - Testing and assessment
 - Revisions
 
+**Assignment:** [Final project]({{site.url))/mmp200/assignments/final-pro.md) production
+
 --------------------------
 
 ### Exam Week
 **Final presentations**
+**Submission of final portolios**
