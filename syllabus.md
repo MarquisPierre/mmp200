@@ -67,6 +67,46 @@ Grades will be decided based on timely submission, efforts and results of assign
 	<li>Final project: 30%</li>
 	<li>Class participation: 10%</li>
 </ul>
+<h3>TOPICS</h3>
+<strong>HTML/CSS</strong>
+<ul>
+	<li>HTML5 semantic elements</li>
+	<li>CSS selectors</li>
+	<li>CSS Typography</li>
+	<li>HTML/CSS layout (with floats)</li>
+</ul>
+<strong>Website project planning</strong>
+<ul>
+	<li>Development of project objectives</li>
+	<li>Understanding target audience</li>
+	<li>The Creative Brief</li>
+</ul>
+<strong>Information Architecture</strong>
+<ul>
+	<li>Content selection</li>
+	<li>Content outline</li>
+	<li>Taxonomy</li>
+	<li>Site mapping</li>
+</ul>
+<strong>User Interface design:</strong>
+<ul>
+	<li>Visual principles: visual hierarchy, grouping, consistency</li>
+	<li> Information design: data-ink ratio, chunking</li>
+	<li>Interaction design: Feedback, affordances, constrains, visibility</li>
+	<li>Mental models</li>
+	<li>UI Patterns</li>
+	<li>Common patterns of responsive UI</li>
+	<li>Wireframing</li>
+</ul>
+<strong>Visual design</strong>
+<ul>
+	<li>Typography for the web</li>
+	<li>Layout and Grid design for the web</li>
+	<li>Style tiles</li>
+</ul>
+<strong>Prototyping with CSS frameworks/Bootstrap</strong>
+
+<strong>Using Bootstrap components and jQuery plugins.</strong>
 Below are the college’s general education learning outcomes, the outcomes that checked in the left-hand column indicate goals that will be covered and assessed in this course. (Check at least one.)
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
