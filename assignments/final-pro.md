@@ -16,8 +16,8 @@ title: Final Project
 
 ### Stage 1: Definition
 
-- Define and research target audience groups. You must have at least two!
-- Develop specific project requirements
+- Define and research target audience groups. You must have at least two! Create one persona for each audience group. 
+- Identify desired content and features based on the needs of your target users.
 
 **Deliverables**
 - [Creative Brief](brief.md)
