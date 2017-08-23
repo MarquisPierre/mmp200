@@ -12,6 +12,14 @@ nav.site-header li{
   border-right:solid 1px #fff;
   padding:0 1em;
 }
+
+nav.site-header li:last-child{
+  display:inline-block; 
+  margin:0;
+  border:none;
+  padding:0;
+}
+
 .page-header a{
   color:#fff;
 }
