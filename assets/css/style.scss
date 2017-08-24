@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+.site-header{
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#621875+1,621875+24,fb955e+100 */
+background: #621875; /* Old browsers */
+background: -moz-linear-gradient(top, #621875 1%, #621875 24%, #fb955e 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #621875 1%,#621875 24%,#fb955e 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #621875 1%,#621875 24%,#fb955e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#621875', endColorstr='#fb955e',GradientType=0 ); /* IE6-9 */
+}
 h1.project-name{
   font-size:1.5em;
 }
