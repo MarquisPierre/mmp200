@@ -44,7 +44,7 @@ MMP 100
 </table>
 <h3>REQUIRED TEXT</h3>
 <ul>
-	<li>HTML5 &amp; CSS3 Visual QuickStart Guide, 7th Edition, by Elizabeth Castro &amp; Bruce Hyslop</li>
+	<li>HTML5 &amp; CSS3 Visual QuickStart Guide, 8th Edition, by Elizabeth Castro &amp; Bruce Hyslop</li>
 	<li>Online text will be assigned</li>
 </ul>
 <h3>OTHER REQUIRED RESOURCES</h3>
