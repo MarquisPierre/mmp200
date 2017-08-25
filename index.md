@@ -106,7 +106,7 @@ title: Schedule
 - [Viewport and Media Queries](css/viewport-media-queries.md) 
 - Mobile-first web development
 - CSS Dropdown Menu ([code](https://github.com/revitalk/mmp200/blob/master/css/css-dropdown-menu.html))
-**Class Exercise:**
+
 **Assignment:** [Midterm project](assignments/midterm.md) step 4
 **Read:** [What is Responsive Design](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449362942_sampler.pdf)
 
@@ -129,6 +129,8 @@ title: Schedule
 ### Week 8
 **App Concept Development**
 <iframe src="https://player.vimeo.com/video/52861634" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+- Case Study: [NY Times Cooking App](https://cooking.nytimes.com/)
 - User flow
 
 **Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work
