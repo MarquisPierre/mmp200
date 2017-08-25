@@ -30,12 +30,10 @@
     <section class="main-content">
       <aside class="my-posts">
         <h4>Class Notes</h4>
-<ul>
+
   {% for post in site.posts %}
-    <li>
       {{ post.title }}
       {{ post.content }}
-    </li>
   {% endfor %}
 </ul>
     </aside>
