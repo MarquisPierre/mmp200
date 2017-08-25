@@ -3,7 +3,7 @@ layout: class-home
 site: MMP 200 Multimedia Design
 title: Schedule
 ---
-{% for i in (1..15) %}<a href="#week-{{i}}">Week {{i}}</a> &#8226;  {% endfor %}
+{% for i in (1..15) %}<a href="#week-{{i}}" class="week">Week {{i}}</a> {% endfor %}
 
 --------------------
 
