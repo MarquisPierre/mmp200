@@ -32,6 +32,16 @@ nav.site-header li:last-child{
 .page-header a{
   color:#fff;
 }
+
+.week{
+  border: solid 1px #eff0f1;
+  padding:0 1em;
+}
+
+.week:last-child{
+  border:none;
+}
+
 .my-posts{
       border-bottom:solid 1px #eff0f1;
   margin-bottom:2rem;
