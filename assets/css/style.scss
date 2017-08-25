@@ -35,6 +35,9 @@ nav.site-header li:last-child{
 
   
 @media (min-width:64em){
+  .main-content {
+    padding: 2rem 4rem;
+  }
   .page-header{
     padding:4rem 6rem;
   }
@@ -66,6 +69,6 @@ nav.site-header{
     list-style-type:disc;
   }
 .content{
-  width:48rem;
+  width:34rem;
 }
 }
