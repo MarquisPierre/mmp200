@@ -182,35 +182,35 @@ title: Schedule
 **Scenarios and workflows**
 - Scenarios
 - Sketching
-
+<!---
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro)
 
 --------------------------
-
+<!---
 ### Week 13
 **CSS & Bootstrap Production**
-
+<!---
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) prototyping
 
 --------------------------
-
+<!---
 ### Week 14
 **Production Lab**
 - bring your questions to class!
-
+<!---
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) production
 
 --------------------------
-
+<!---
 ### Week 15
 **Critiques**
 - Testing and assessment
 - Revisions
-
+<!---
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) production
 
 --------------------------
-
+<!---
 ### Exam Week
 **Final presentations**
 **Submission of final portolios** -->
