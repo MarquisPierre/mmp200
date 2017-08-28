@@ -166,13 +166,13 @@ title: Schedule
 **Assignment:** [class portfolio]({{site.url}}/mmp200/assignments/portfolio)
 
 --------------------------
-
+<!---
 ### Week 11
 **Planning an interactive site**
 - Developing project requirements
 - Personas
 - Sitemaps
-
+<!---
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro)
 **Read:** [Goal-Directed Design](http://media.wiley.com/product_data/excerpt/11/04700841/0470084111.pdf)
 
