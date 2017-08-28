@@ -53,6 +53,7 @@ title: Schedule
 - [Viewport and Media Queries](css/viewport-media-queries.md) 
 
 **Assignment:** CSS for [Assignment 1](assignments/assignment1/assignment1.md)
+**Read:**[Build perfect website](Build perfect website)
 
 --------------------------
 
@@ -127,27 +128,28 @@ title: Schedule
 --------------------------
 
 ### Week 8
-**App Concept Development**
-<iframe src="https://player.vimeo.com/video/52861634" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-- Case Study: [NY Times Cooking App](https://cooking.nytimes.com/)
-- User flow
-
-**Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work
-
---------------------------
-
-### Week 9
 **Interface Design**
 - Visual hierarchy
 - Entry Point
 - Affordances
 - Providing feedback
 - Mental Model and Conceptual Models
-- Responsive design patterns
-- Sketches and Wireframes
 
+**Class exercise:** User flows
 **Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work and presentations
+**Read** 
+- [How we really use the Web](http://www.sensible.com/chapter.html)
+- [Why Users like Mindless Choices](https://www.sensible.com/downloads/DMMT-Revisited-sample-chapter.pdf)
+
+--------------------------
+
+### Week 9
+**App Concept Development**
+<iframe src="https://player.vimeo.com/video/52861634" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+- Case Study: [NY Times Cooking App](https://cooking.nytimes.com/)
+
+**Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work
 
 --------------------------
 
@@ -161,12 +163,6 @@ title: Schedule
 - [Bootstrap's slideshow]({{site.url}}/mmp200/bootstrap/carousel-bs)
 - [More Bootstrap code samples](https://github.com/revitalk/Bootstrap)
 
---------------------------
-
-### Week 10
-**Responsive Design Patterns**
-- 
-- 
 **Assignment:** [class portfolio]({{site.url}}/mmp200/assignments/portfolio)
 
 --------------------------
@@ -178,9 +174,10 @@ title: Schedule
 - Sitemaps
 
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro)
+**Read:** [Goal-Directed Design](http://media.wiley.com/product_data/excerpt/11/04700841/0470084111.pdf)
 
 --------------------------
-
+<!---
 ### Week 12
 **Scenarios and workflows**
 - Scenarios
@@ -216,4 +213,4 @@ title: Schedule
 
 ### Exam Week
 **Final presentations**
-**Submission of final portolios**
+**Submission of final portolios** -->
