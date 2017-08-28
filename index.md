@@ -11,7 +11,7 @@ title: Schedule
 
 **Review: HTML**
 * HTML Syntax
-    - [Basic HTML Structure](https://github.com/revitalk/mmp200/blob/master/week1/basicHtmlStructure.html)
+    - [Basic HTML Structure](https://github.com/revitalk/mmp200/blob/master/html/basicHtmlStructure.html)
     - [Elements, Tages and Attributes]({{site.url}}/mmp200/html/html-intro) 
     - [Empty and container elements]({{site.url}}/mmp200/html/empty-container)
     - Nesting: parents and children
