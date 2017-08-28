@@ -10,7 +10,7 @@ title: Textbook and Online Text
 **Required online reading:**
 - <a href="http://alistapart.com/article/a-brief-history-of-markup">A Brief History of Markup</a>
 - <a href="http://geekfolk.blogspot.com/2015/01/build-perfect-website.html">Build perfect website</a>
-- <a href="http://www.contentstrategy.com/Content-Strategy-Ch-2.pdf">Content Strategy: Problem</a> (<em>pdf</em>)
+[//]: # (- <a href="http://www.contentstrategy.com/Content-Strategy-Ch-2.pdf">Content Strategy: Problem</a> (<em>pdf</em>))
 - <a href="http://ptgmedia.pearsoncmg.com/images/9780321815385/samplepages/0321815386.pdf">Project Objectives and Approach</a> (<em>pdf</em>)
 - <a href="http://media.wiley.com/product_data/excerpt/11/04700841/0470084111.pdf">Goal-Directed Design</a> (<em>pdf</em>)
 - <a href="http://www.sensible.com/chapter.html">How we <em>really</em> use the Web</a>
