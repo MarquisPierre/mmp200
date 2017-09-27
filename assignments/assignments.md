@@ -8,4 +8,4 @@ title: Assignments
 - [Midterm](midterm.md)
 - [Class Portfolio](portfolio.md)
 
-Assignments are uploaded to your github account. Grades are posted in Blackboard.
+All assignments should uploaded to your github account. Grades are posted in Blackboard.
