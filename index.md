@@ -68,7 +68,7 @@ title: Schedule
 - [Information Architecture]({{site.url}}/mmp200/information-architecture/information-architecture)
     - [The creative Brief]({{site.url}}//mmp200/assignments/festival-brief)
     - [Sitemap](information-architecture/sitemap.md)
-    - [Designing navigation](information-architecture/nav-type.md)
+    - [Designing navigation](information-architecture/type-navigation.md)
 
 **Assignment:** [Midterm project](assignments/midterm.md) steps 1 and 2
 
