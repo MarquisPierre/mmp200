@@ -28,4 +28,4 @@ Include the following information:
 - List technologies that will be used to develop the site
 - Describe the unique visual style of the site
 
-**The Creative Brief is a professioanl documents that is shared with the client and team members. It should be organized neatly with subtitles and written clearly. It should be self-contained and self-explanatory - do not expect people who read it to have any prior knowledge of the project. Use complete sentences.**
+**The Creative Brief is a professional documents that is shared with the client and team members. It should be organized neatly with subtitles and written clearly. It should be self-contained and self-explanatory - do not expect people who read it to have any prior knowledge of the project. Use complete sentences.**
