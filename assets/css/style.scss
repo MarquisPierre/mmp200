@@ -50,6 +50,10 @@ nav.site-header li:last-child{
     padding-bottom:0.2em;
     border-bottom:solid 1px #eff0f1;
   }
+
+.current-week{
+  background-color:yellow;
+}
   
 @media (min-width:64em){
   .main-content {
