@@ -106,7 +106,7 @@ title: Schedule
 **CSS Responsive Layout**
 - [CSS layout with Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
 - [Viewport and Media Queries](css/viewport-media-queries.md) 
-- Example: [4-column layout with CSS flexbox](revitalk.com/mmp200/css/flex/simple-flex-layout.html)
+- Example: [4-column layout with CSS flexbox](http://revitalk.com/mmp200/css/flex/simple-flex-layout.html)
 - Mobile-first web development
 - CSS Dropdown Menu ([code](https://github.com/revitalk/mmp200/blob/master/css/css-dropdown-menu.html))
 
