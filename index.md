@@ -105,6 +105,7 @@ title: Schedule
 ### Week 5
 **CSS Responsive Layout**
 - [CSS layout with Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
+    - important properties: [flex](https://developer.mozilla.org/en-US/docs/Web/CSS/flex), [flex-basis](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis), [flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction), [flex-flow](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-flow), [flex-grow](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow), [flex-shrink](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink), [flex-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap), [justify-content](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content), [order](https://developer.mozilla.org/en-US/docs/Web/CSS/order), [align-content](https://developer.mozilla.org/en-US/docs/Web/CSS/align-content), [align-items](https://developer.mozilla.org/en-US/docs/Web/CSS/align-items), [align-self](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self). 
 - [Viewport and Media Queries](css/viewport-media-queries.md) 
 - Example: [4-column layout with CSS flexbox](http://revitalk.com/mmp200/css/flex/simple-flex-layout.html) [(code)](https://github.com/revitalk/mmp200/blob/master/css/flex/simple-flex-layout.html)
 - Mobile-first web development
