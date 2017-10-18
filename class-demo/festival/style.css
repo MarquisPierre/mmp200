@@ -1,36 +1,84 @@
-          #large-photo{
-            display:flex;
-            flex-direction:column;
-            align-items: center;
-            justify-content: center;
-            height:200px;
-            background-color:#ccc;
-            text-align: center;
-          }
-          .col{
-            display:flex;
-            flex-direction:column;
-            align-items: center;
-            justify-content: center;
-            background-color:gray;
-            border: solid 1px black;
-            height:200px;
-          }
-          @media (min-width:640px){
-              .row{
-                    display:flex;
-                    flex-direction: row;
-                }
-              .col{
-                 flex: 1 1 25%;
-              }
-                nav li{
-                    display:inline-block;
-                }
-              #toggle-menu{display:none;
-              }
-              
-              nav ul{
-                  display:block;
-              }
-          }
+*{
+    margin:0;
+    padding:0;
+}
+
+/* ********** NAVIGATION **********  */
+
+nav{
+    height:2em;
+        border: solid 1px gray;
+}
+nav ul{
+    display:none;
+}
+#toggle-menu{
+    float:right;
+}
+/* ********** HEADER **********  */
+
+header {
+    text-align: center;
+    clear:both; /* prevents any element from floating to the right or left of the header */
+    background-color: black;
+}
+
+header img {
+    max-width: 80%;
+}
+/* ********** LAYOUT **********  */
+
+
+#large-photo{
+    height: 16em;
+    border: solid 1px gray;
+}
+
+.col{
+    height: 16em;
+    border: solid 1px gray;
+}
+
+/* ********** FOOTER **********  */
+footer{
+    text-align:center;
+}
+
+/* ********** FOR LARGER VIEWPORTS (FROM IPAD AND UP) **********  */
+
+@media (min-width:640px){
+   
+    #toggle-menu{        /* hiding the button */
+        display:none;
+    }
+    
+    nav {
+        text-align: center;
+    }
+    
+    nav ul {             /* displaying the button */
+        display:block;
+    }
+    
+    nav li{
+        display: inline-block;
+        margin: 0.5em 1em;
+    }
+    
+    .row{  /* flex container div */
+        display:flex;
+        flex-direction: row;
+
+    }
+    
+    .col{
+        width:25%;
+        display:flex;
+        flex-direction:column;
+        align-items: center;
+        justify-content: center;
+ 
+
+    }
+
+}
