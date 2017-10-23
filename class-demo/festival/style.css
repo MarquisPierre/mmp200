@@ -30,13 +30,37 @@ header img {
 
 
 #large-photo{
-    height: 16em;
+    height: 360px;
+    color:#fff;
     border: solid 1px gray;
+    background-image: url("images/big-img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
 }
 
 .col{
     height: 16em;
-    border: solid 1px gray;
+    color:#fff;
+    border: solid 1px #fff;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+
+#merch{
+    background-image: url("images/col1-img.gif");
+}
+
+#friday{
+    background-image: url("images/col2-img.jpg");
+}
+
+#sat{
+    background-image: url("images/col3-img.jpg");
+}
+#sun{
+    background-image: url("images/col4-img.jpg");
 }
 
 /* ********** FOOTER **********  */
@@ -52,14 +76,14 @@ footer{
         display:none;
     }
     
-    nav {
-        text-align: center;
-    }
-    
     nav ul {             /* displaying the button */
         display:block;
     }
     
+    nav {
+        text-align: center;
+    }
+     
     nav li{
         display: inline-block;
         margin: 0.5em 1em;
@@ -68,17 +92,32 @@ footer{
     .row{  /* flex container div */
         display:flex;
         flex-direction: row;
-
     }
     
     .col{
         width:25%;
-        display:flex;
-        flex-direction:column;
-        align-items: center;
-        justify-content: center;
- 
-
+        margin-left:5px;
+        margin-right:5px;
     }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
