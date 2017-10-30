@@ -3,13 +3,14 @@
     padding:0;
 }
 
-/* ********** NAVIGATION **********  */
-
 body{
     background-color: black;
     font-family: arial;
     color:#fff;
 }
+
+/* ********** NAVIGATION **********  */
+
 
 #toggle-menu{
     background-color:transparent;
@@ -53,7 +54,6 @@ nav li li{
 header {
     text-align: center;
     clear:both; /* prevents any element from floating to the right or left of the header */
-    background-color: black;
 }
 
 header img {
@@ -70,6 +70,10 @@ h2{
 }
 /* ********** LAYOUT **********  */
 
+.row{  /* flex container div */
+        display:flex;
+        flex-direction: column;
+    }
 
 #large-photo{
     height: 360px;
@@ -116,10 +120,6 @@ footer{
     text-align:center;
 }
 
-.row{  /* flex container div */
-        display:flex;
-        flex-direction: column;
-    }
 footer a{
     color:#fff;
 }
@@ -130,7 +130,6 @@ footer a{
    
     #toggle-menu{        /* hiding the button */
         display:none;
-
     }
     
     nav ul {             /* displaying the button */
@@ -148,29 +147,30 @@ footer a{
         margin: 0.5em 1em;
     }
     
-    
-    nav li ul{
+    nav li ul{ /* dropdown menu */
         display:none;
-        position:absolute;
+        position:absolute; /* removes item from the normal flow of HTML. 
+                            There will not be reserved space for it and
+                            it will overlap other elements */
         background-color: #fff;
-        width:auto;
+        width:auto; /* will be as wide as its content */
         text-align: left;
     }
     
-
     nav li:hover ul{
         display:block;
     }
         
-    nav li li{
-        display:block;   
+    nav li li{ /* dropdown menu elements */
+        display:block;   /* makes sure it is vertical */
     } 
        nav li li a{
         color:#000;   
     }
     
+    /* layout */
     .row{  /* flex container div */
-        flex-direction: row;
+        flex-direction: row; /* reverses the column direction set for mobile to row */
     }
     
     .col{
@@ -178,23 +178,3 @@ footer a{
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
