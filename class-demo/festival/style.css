@@ -8,26 +8,46 @@
 body{
     background-color: black;
     font-family: arial;
+    color:#fff;
+}
+
+#toggle-menu{
+    background-color:transparent;
+    color:#fff;
+    border: none;
+    font-size:2em;
 }
 nav{
-    height:4em;
-    border: solid 1px gray;
     text-transform: uppercase;
+    margin: 1em;
     display:flex;
     flex-direction: column;
-    justify-content: center;
+    align-items:flex-end;
 }
 
 nav a{
-        color:#fff;
+    color:#fff;
     text-decoration: none;
 }
 nav ul{
     display:none;
+    width:100%;
+    list-style-type: none;
 }
-#toggle-menu{
-    float:right;
+
+nav li{
+    border-bottom: 1px solid #fff;
+    padding:0.5em;
+    }
+
+nav li ul{  /*  show dropdown menu in mobile  */
+    display:block;
+    }
+
+nav li li{
+        border:none;
 }
+
 /* ********** HEADER **********  */
 
 header {
@@ -39,12 +59,20 @@ header {
 header img {
     max-width: 80%;
 }
+
+h2{
+    border-top:solid 3px #fff;
+    border-bottom:solid 3px #fff;
+    padding: 0.5em 0;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    font-weight: normal;
+}
 /* ********** LAYOUT **********  */
 
 
 #large-photo{
     height: 360px;
-    color:#fff;
     border: solid 1px gray;
     background-image: url("images/big-img.jpg");
     background-repeat: no-repeat;
@@ -58,7 +86,6 @@ header img {
 
 .col{
     height: 16em;
-    color:#fff;
     border: solid 1px #fff;
     background-repeat: no-repeat;
     background-size: cover;
@@ -93,6 +120,9 @@ footer{
         display:flex;
         flex-direction: column;
     }
+footer a{
+    color:#fff;
+}
 
 /* ********** FOR LARGER VIEWPORTS (FROM IPAD AND UP) **********  */
 
@@ -100,36 +130,44 @@ footer{
    
     #toggle-menu{        /* hiding the button */
         display:none;
+
     }
     
     nav ul {             /* displaying the button */
         display:block;
+        text-align: center;
     }
     
     nav {
-        text-align: center;
+        height:4em;
     }
      
     nav li{
-        display: inline-block;
+        display: inline-block; /* turns menu horizontal */
+        border:none;
         margin: 0.5em 1em;
     }
     
-    nav li li{
-        display:block;
-    
-    }
     
     nav li ul{
         display:none;
         position:absolute;
-        background-color: #000;
+        background-color: #fff;
+        width:auto;
+        text-align: left;
     }
     
+
     nav li:hover ul{
         display:block;
     }
         
+    nav li li{
+        display:block;   
+    } 
+       nav li li a{
+        color:#000;   
+    }
     
     .row{  /* flex container div */
         flex-direction: row;

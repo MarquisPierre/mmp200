@@ -5,12 +5,22 @@
     <meta name="viewport" content="initial-scale=1">
     <title>The Meadows Music and Arts Festival</title>
     <link rel="stylesheet" href="style.css">
+      <script>
+          // The following function toggles the visibility of an element
+      function toggleVis(id){
+        if (document.getElementById(id).style.display=="block"){
+              document.getElementById(id).style.display="none";}
+        else {
+              document.getElementById(id).style.display="block";}
+      }
+      </script>
+      <script src="https://use.fontawesome.com/257ea50967.js"></script>
   </head>
   <body>
       <div class="container-fluid"> <!-- this div holds all content in the page -->
         <nav>
-            <button id="toggle-menu">Menu</button>
-          <ul>
+            <button id="toggle-menu" onclick="toggleVis('mainNav');"><i class="fa fa-bars" aria-hidden="true"></i></button>
+          <ul id="mainNav">
             <li><a href="#">Tickets</a>
                 <ul>
                     <li><a href="#">General Admission</a></li>
