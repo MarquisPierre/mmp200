@@ -1,6 +1,6 @@
 ---
 layout: class
-title:  Midterm deadline 
+title:  Midterm Deadline 
 categories: Class notes
 ---
 All submissions are due on Monday 11/6. Class presentations will also take place on Monday.
