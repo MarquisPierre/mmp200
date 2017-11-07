@@ -60,11 +60,10 @@ MMP 100
 <h3>REQUIREMENTS &amp; EVALUATION OF STUDENTS</h3>
 Grades will be decided based on timely submission, efforts and results of assignments.
 <ul>
-	<li>Assignment 1: 5%</li>
-	<li>Midterm: 30%</li>
+	<li>Assignment 1: 10%</li>
+	<li>Midterm: 35%</li>
 	<li>Portfolio: 10%</li>
-	<li>Pitch an app: 15%</li>
-	<li>Final project: 30%</li>
+	<li>Final project: 35%</li>
 	<li>Class participation: 10%</li>
 </ul>
 <h3>TOPICS</h3>
