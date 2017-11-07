@@ -168,7 +168,6 @@ title: Schedule
 - Case Study: [NY Times Cooking App](https://cooking.nytimes.com/)
 
 **Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work
--->
 
 <!-- 
 **Class exercise:** User flows
@@ -176,7 +175,7 @@ title: Schedule
 **Read** 
 - [How we really use the Web](http://www.sensible.com/chapter.html)
 - [Why Users like Mindless Choices](https://www.sensible.com/downloads/DMMT-Revisited-sample-chapter.pdf)
-
+-->
 --------------------------
 ### Week 11
 **Planning an interactive site**
@@ -214,14 +213,15 @@ title: Schedule
 
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) production
 
---------------------------
-<!---
+
+<!--
 ### Week 15
 **Critiques**
 - Testing and assessment
 - Revisions
 
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) production
+-->
 
 --------------------------
 
