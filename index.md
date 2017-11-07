@@ -85,6 +85,13 @@ title: Schedule
     - [Great free fonts]({{site.url}}/mmp200/typography/great-free-fonts)
     - [CSS typography]({{site.url}}/mmp200/typography/css-type)
 - [Basics of color]({{site.url}}/mmp200/graphic-design/color)
+
+**Assignment** 
+- [Midterm project](assignments/midterm.md) step 3
+
+--------------------------
+
+### Week 5
 - Layout desgin
     - [Visual Hierarchy](http://www.gdbasics.com/html/hierarchy/hierarchy.html)
     - [Grid]({{site.url}}/mmp200/graphic-design/grid)
@@ -102,21 +109,31 @@ title: Schedule
 
 --------------------------
 
-### Week 5
-**CSS Responsive Layout**
+### Week 6
+**CSS Layout**
 - [CSS layout with Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes)
     - important properties: [flex](https://developer.mozilla.org/en-US/docs/Web/CSS/flex), [flex-basis](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis), [flex-direction](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction), [flex-flow](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-flow), [flex-grow](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-grow), [flex-shrink](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink), [flex-wrap](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap), [justify-content](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content), [order](https://developer.mozilla.org/en-US/docs/Web/CSS/order), [align-content](https://developer.mozilla.org/en-US/docs/Web/CSS/align-content), [align-items](https://developer.mozilla.org/en-US/docs/Web/CSS/align-items), [align-self](https://developer.mozilla.org/en-US/docs/Web/CSS/align-self). 
 - [Viewport and Media Queries](css/viewport-media-queries.md) 
 - Example: [4-column layout with CSS flexbox](http://revitalk.com/mmp200/css/flex/simple-flex-layout.html) [(code)](https://github.com/revitalk/mmp200/blob/master/css/flex/simple-flex-layout.html)
-- Mobile-first web development
-- CSS Dropdown Menu ([code](https://github.com/revitalk/mmp200/blob/master/css/css-dropdown-menu.html))
+
 
 **Assignment:** [Midterm project](assignments/midterm.md) step 4
 **Read:** [What is Responsive Design](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449362942_sampler.pdf)
 
+**Assignment:** [Midterm project](assignments/midterm.md) step 4
+
 --------------------------
 
-### Week 6
+### Week 7
+**CSS Responsive Design**
+- Mobile-first web development
+- CSS Dropdown Menu ([code](https://github.com/revitalk/mmp200/blob/master/css/css-dropdown-menu.html))
+
+**Assignment:** [Midterm project](assignments/midterm.md) step 4
+
+--------------------------
+
+### Week 8
 **Midterm Production**
 - Embedding fonts with CSS
 - CSS enhancements
@@ -125,34 +142,8 @@ title: Schedule
 
 --------------------------
 
-### Week 7
-**Midterm Presentations**
-
---------------------------
-
-### Week 8
-**Interface Design**
-- Visual hierarchy
-- Entry Point
-- Affordances
-- Providing feedback
-- Mental Model and Conceptual Models
-
-**Class exercise:** User flows
-**Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work and presentations
-**Read** 
-- [How we really use the Web](http://www.sensible.com/chapter.html)
-- [Why Users like Mindless Choices](https://www.sensible.com/downloads/DMMT-Revisited-sample-chapter.pdf)
-
---------------------------
-
 ### Week 9
-**App Concept Development**
-<iframe src="https://player.vimeo.com/video/52861634" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-- Case Study: [NY Times Cooking App](https://cooking.nytimes.com/)
-
-**Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work
+**Midterm Presentations**
 
 --------------------------
 
@@ -170,37 +161,57 @@ title: Schedule
 
 --------------------------
 <!---
+### Week 9
+**App Concept Development**
+<iframe src="https://player.vimeo.com/video/52861634" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+- Case Study: [NY Times Cooking App](https://cooking.nytimes.com/)
+
+**Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work
+-->
+
+<!-- 
+**Class exercise:** User flows
+**Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work and presentations
+**Read** 
+- [How we really use the Web](http://www.sensible.com/chapter.html)
+- [Why Users like Mindless Choices](https://www.sensible.com/downloads/DMMT-Revisited-sample-chapter.pdf)
+
+--------------------------
 ### Week 11
 **Planning an interactive site**
 - Developing project requirements
 - Personas
 - Sitemaps
-<!---
+- Scenarios and worflows
+- Sketching
+
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro)
 **Read:** [Goal-Directed Design](http://media.wiley.com/product_data/excerpt/11/04700841/0470084111.pdf)
 
 --------------------------
-<!---
-### Week 12
-**Scenarios and workflows**
-- Scenarios
-- Sketching
-<!---
-**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro)
 
---------------------------
-<!---
+### Week 12
+**Interface Design**
+- Visual hierarchy
+- Entry Point
+- Affordances
+- Providing feedback
+- Mental Model and Conceptual Models
+
+----------------------------------
+
 ### Week 13
 **CSS & Bootstrap Production**
-<!---
+
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) prototyping
 
 --------------------------
-<!---
+
 ### Week 14
 **Production Lab**
 - bring your questions to class!
-<!---
+
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) production
 
 --------------------------
@@ -209,11 +220,11 @@ title: Schedule
 **Critiques**
 - Testing and assessment
 - Revisions
-<!---
+
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) production
 
 --------------------------
-<!---
+
 ### Exam Week
 **Final presentations**
-**Submission of final portolios** -->
+**Submission of final portolios**
