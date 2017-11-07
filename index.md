@@ -159,8 +159,7 @@ title: Schedule
 
 **Assignment:** [class portfolio]({{site.url}}/mmp200/assignments/portfolio)
 
---------------------------
-<!---
+<!--
 ### Week 9
 **App Concept Development**
 <iframe src="https://player.vimeo.com/video/52861634" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -176,7 +175,9 @@ title: Schedule
 - [How we really use the Web](http://www.sensible.com/chapter.html)
 - [Why Users like Mindless Choices](https://www.sensible.com/downloads/DMMT-Revisited-sample-chapter.pdf)
 -->
+
 --------------------------
+
 ### Week 11
 **Planning an interactive site**
 - Developing project requirements
@@ -201,30 +202,27 @@ title: Schedule
 ----------------------------------
 
 ### Week 13
-**CSS & Bootstrap Production**
+**CSS & Bootstrap Production Lab**
+- bring your questions to class!
 
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) prototyping
 
 --------------------------
 
 ### Week 14
-**Production Lab**
-- bring your questions to class!
-
-**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) production
-
-
-<!--
-### Week 15
 **Critiques**
 - Testing and assessment
 - Revisions
 
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) production
--->
 
 --------------------------
 
-### Exam Week
+### Week 15: Exam Week
 **Final presentations**
 **Submission of final portolios**
+
+**Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) production
+-->
+
+
