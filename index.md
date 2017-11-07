@@ -223,6 +223,6 @@ title: Schedule
 **Submission of final portolios**
 
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) production
--->
+
 
 
