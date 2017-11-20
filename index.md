@@ -179,7 +179,7 @@ title: Schedule
 
 ### Week 11
 **Planning an interactive site**
-- Developing project requirements: [Creative Brief][The creative Brief]({{site.url}}//mmp200/assignments/festival-brief)
+- Developing project requirements: [Creative Brief]({{site.url}}//mmp200/assignments/creative-brief)
     - [Sitemap](information-architecture/sitemap.md)
 - [Personas]({{site.url}}/information-architecture/personas
 - Scenarios and workflows
