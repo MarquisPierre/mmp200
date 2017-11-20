@@ -152,10 +152,9 @@ title: Schedule
 - Using a CSS feamework- advantages and drawbacks
 - [Download and learn about Bootstrap](http://getbootstrap.com/)- the most popular CSS framework
 - [Responsive layout with Bootstrap]({{site.url}}/mmp200/bootstrap/three-col-bs)
-- [Navigation bar with Bootstrap]({{site.url}}/mmp200/bootstrap/nav-bar-bs)
-- [Dropdown menu with Bootstrap]({{site.url}}/mmp200/bootstrap/dropdown-bs)
-- [Bootstrap's slideshow]({{site.url}}/mmp200/bootstrap/carousel-bs)
-- [More Bootstrap code samples](https://github.com/revitalk/Bootstrap)
+- [Navigation bar with Bootstrap](https://getbootstrap.com/docs/4.0/components/navbar/)
+- [Dropdown menu with Bootstrap](https://getbootstrap.com/docs/4.0/components/dropdowns/)
+- [Bootstrap's slideshow](https://getbootstrap.com/docs/4.0/components/carousel/)
 
 **Assignment:** [class portfolio]({{site.url}}/mmp200/assignments/portfolio)
 
@@ -180,10 +179,11 @@ title: Schedule
 
 ### Week 11
 **Planning an interactive site**
-- Developing project requirements
-- Personas
+- Developing project requirements: [Creative Brief][The creative Brief]({{site.url}}//mmp200/assignments/festival-brief)
+    - [Sitemap](information-architecture/sitemap.md)
+- [Personas]({{site.url}}/information-architecture/personas
+- Scenarios and workflows
 - Sitemaps
-- Scenarios and worflows
 - Sketching
 
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro)
@@ -195,9 +195,9 @@ title: Schedule
 **Interface Design**
 - Visual hierarchy
 - Entry Point
-- Affordances
+- [Affordances](http://blog.teamtreehouse.com/affordances-web-design)
 - Providing feedback
-- Mental Model and Conceptual Models
+- [Mental Model and Conceptual Models](https://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience)
 
 ----------------------------------
 
