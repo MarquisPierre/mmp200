@@ -3,7 +3,7 @@ layout: class
 site: MMP 200 Multimedia Design
 title: Final Project
 ---
-*You are encouraged to work on this assignment with a classmate. Aside from the final URL, all submissions can be done jointly. Submission of the final URL must be individual and each teammate must publish the site in their own Github site. All teammates must contribute to all stages of the project development.*
+<!-- You are encouraged to work on this assignment with a classmate. Aside from the final URL, all submissions can be done jointly. Submission of the final URL must be individual and each teammate must publish the site in their own Github site. All teammates must contribute to all stages of the project development.* -->
 
 **Learning Objectives:** 
  Utilize what we learned in class so far to design an interface that simplify access to dense information
