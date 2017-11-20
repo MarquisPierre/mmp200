@@ -17,4 +17,4 @@ Include the following information:
 - **Supported platforms**- *List devices and browsers that the site will support. Examples for devices are desktops, mobiles and tablets. Or specify specific devices like iPhone, iPad, and other mobile devices. Include browsers’ names and versions.*
 - **Style**- *Use adjectives to describe how your site will look like, for example, friendly, warm, cutting edge, clean, clear, etc. You may compare its style to other sites as well.*
 
-**The Creative Brief is a professional documents that is shared with the client and team members. It should be organized neatly with subtitles and written clearly. It should be self-contained and self-explanatory - do not expect people who read it to have any prior knowledge of the project. Use complete sentences.**
+**The Creative Brief is a professional document that is shared with the client and team members. It should be organized neatly with subtitles and written clearly. It should be self-contained and self-explanatory - do not expect people who read it to have any prior knowledge of the project. Use complete sentences.**
