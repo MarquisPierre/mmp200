@@ -180,14 +180,16 @@ title: Schedule
 ### Week 11
 **Planning an interactive site**
 - Developing project requirements: [Creative Brief]({{site.url}}//mmp200/assignments/creative-brief)
-    - [Sitemap](information-architecture/sitemap.md)
-- [Personas]({{site.url}}/information-architecture/personas
+- [Information Architecture]({{site.url}}/mmp200/information-architecture/information-architecture)
+- [Content Selection and Organization](https://go.gliffy.com/go/publish/5110220)
+- [Personas]({{site.url}}/information-architecture/personas)
 - Scenarios and workflows
-- Sitemaps
+- [Sitemap](information-architecture/sitemap.md)
 - Sketching
 
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro)
 **Read:** [Goal-Directed Design](http://media.wiley.com/product_data/excerpt/11/04700841/0470084111.pdf)
+**Read:** [Organizing Information](http://docstore.mik.ua/orelly/web2/infoarch/ch03_01.htm) and [Labeling Systems](http://docstore.mik.ua/orelly/web2/infoarch/ch05_01.htm).
 
 --------------------------
 
