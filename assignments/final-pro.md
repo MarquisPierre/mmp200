@@ -20,7 +20,7 @@ title: Final Project
 - Identify desired content and features based on the needs of your target users.
 
 **Deliverables**
-- [Creative Brief]({{site-url}}/mmp200/assignments.creative-brief)
+- [Creative Brief]({{site-url}}/mmp200/assignments/creative-brief)
 - A persona for each audience group
 - A scenario for each persona
 
