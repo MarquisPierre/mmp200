@@ -10,4 +10,4 @@ Personas are archetypes representing users from the target audience groups. They
 
 [Sample persona](http://projectuxd.com/wp-content/uploads/2009/03/nicollepersonach7.doc) for a fictitious product development of Bluetooth earphones for iPhone (from [A Project Guide to UX Design](http://projectuxd.com/)).
 
-[Persona-blank]({{site.url}}/mmp200/information-architecture/persona-blank)
+[Persona-blank]({{site.url}}/mmp200/information-architecture/persona-blank.doc)
