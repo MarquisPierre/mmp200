@@ -182,6 +182,7 @@ title: Schedule
 - Developing project requirements: [Creative Brief]({{site.url}}//mmp200/assignments/creative-brief)
 - [Information Architecture]({{site.url}}/mmp200/information-architecture/information-architecture)
 - [Content Selection and Organization](https://go.gliffy.com/go/publish/5110220)
+- [Organization Schemes](https://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
 - [Personas]({{site.url}}/mmp200/information-architecture/personas)
 - Scenarios and workflows
 - [Sitemap](information-architecture/sitemap.md)
@@ -189,7 +190,6 @@ title: Schedule
 
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro)
 **Read:** [Goal-Directed Design](http://media.wiley.com/product_data/excerpt/11/04700841/0470084111.pdf)
-**Read:** [Organizing Information](http://docstore.mik.ua/orelly/web2/infoarch/ch03_01.htm) and [Labeling Systems](http://docstore.mik.ua/orelly/web2/infoarch/ch05_01.htm).
 
 --------------------------
 
