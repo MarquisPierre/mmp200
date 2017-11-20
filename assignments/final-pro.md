@@ -30,13 +30,13 @@ Based on your scenarios, and what you learned in your research about your target
 
 **Deliverables** 
 - Sitemap  
-- Sketches of interface of key pages
+- Sketches of interface of key pages in desktop and mobile versions.
 
 ### Stage 3: Prototype and Assess
 
-Prototype with Bootstrap.
+Prototype with Adobe XD or Axure.
 
-Deliverables: Bootstrap prototype.
+Deliverables: Published prototype.
 Class presentations of prototypes
 
 ### Stage 4: Visual Design
@@ -52,5 +52,18 @@ Design the look and feel of the website. Your design choices must include:
 Deliverable: a mockup of the homepage.
 
 ### Stage 4: Production
+- Talk to me about the number of pages that you
+- Coding of pages using the Bootstrap framework
+- Publish final site in your github account
 
+### Final Submission 
+One PDF with all deliverable listed above. The PDF should be constructed as followed:
+- Cover page with project tite and your name
+- Creative brief
+- Personas+scenarios
+- Sitemap
+- Sketches (minimum two sketches of homepage in desktop and mobile)
+- Screenshots from prototype + URL
+- Mockups (minimum two mockups of homepage in desktop and mobile)
+- URL of website published in Github
 
