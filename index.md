@@ -182,7 +182,7 @@ title: Schedule
 - Developing project requirements: [Creative Brief]({{site.url}}//mmp200/assignments/creative-brief)
 - [Information Architecture]({{site.url}}/mmp200/information-architecture/information-architecture)
 - [Content Selection and Organization](https://go.gliffy.com/go/publish/5110220)
-- [Personas]({{site.url}}/information-architecture/personas)
+- [Personas]({{site.url}}/mmp200/information-architecture/personas)
 - Scenarios and workflows
 - [Sitemap](information-architecture/sitemap.md)
 - Sketching
