@@ -198,7 +198,7 @@ title: Schedule
 - Visual hierarchy
 - Entry Point
 - [Mental Model and Conceptual Models](https://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience)
-- [Affordances](http://blog.teamtreehouse.com/affordances-web-design)
+- [Digital Affordances](http://blog.teamtreehouse.com/affordances-web-design)
      - Labels
      - Metaphors
      - Patterns
