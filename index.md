@@ -195,6 +195,7 @@ title: Schedule
 
 ### Week 12
 **Interface Design**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yY96hTb8WgI?rel=0" frameborder="0" allowfullscreen></iframe>
 - Visual hierarchy
 - Entry Point
 - [Mental Model and Conceptual Models](https://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience)
