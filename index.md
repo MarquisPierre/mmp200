@@ -216,7 +216,7 @@ title: Schedule
 
 **Visual enhancement**
 - Creating a [style tile](http://styletil.es/)
-- [Simple template for a style tile]()
+- [Simple template for a style tile](https://github.com/revitalk/mmp200/blob/master/graphic-design/style-tile.ai)
 
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) prototyping
 
