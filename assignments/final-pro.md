@@ -62,7 +62,7 @@ One PDF with all deliverable listed above. The PDF should be constructed as foll
 - Creative brief
 - Personas+scenarios
 - Sitemap
-- Sketches (optional)
+- Sketches
 - Screenshots from Axure prototype
 - Style tile
 - URL of website published in Github
