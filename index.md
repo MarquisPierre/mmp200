@@ -214,6 +214,10 @@ title: Schedule
 - [Complex Bootstrap layout]({{site.url}}/mmp200/bootstrap/complex-layout-bs)
 - bring your questions to class!
 
+**Visual enhancement**
+- Creating a [style tile](http://styletil.es/)
+- [Simple template for a style tile]()
+
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) prototyping
 
 --------------------------
