@@ -151,7 +151,7 @@ title: Schedule
 **Bootstrap Web Development**
 - Using a CSS feamework- advantages and drawbacks
 - [Download and learn about Bootstrap](http://getbootstrap.com/)- the most popular CSS framework
-- [Responsive layout with Bootstrap]({{site.url}}/mmp200/bootstrap/three-col-bs)
+- [Quick responsive layout with Bootstrap]({{site.url}}/mmp200/bootstrap/three-col-bs)
 - [Navigation bar with Bootstrap](https://getbootstrap.com/docs/4.0/components/navbar/)
 - [Dropdown menu with Bootstrap](https://getbootstrap.com/docs/4.0/components/dropdowns/)
 - [Bootstrap's slideshow](https://getbootstrap.com/docs/4.0/components/carousel/)
@@ -211,6 +211,7 @@ title: Schedule
 
 ### Week 13
 **CSS & Bootstrap Production Lab**
+- [Complex Bootstrap layout]({{site.url}}/mmp200/bootstrap/complex-layout-bs)
 - bring your questions to class!
 
 **Assignment:** [Final project]({{site.url}}/mmp200/assignments/final-pro) prototyping
