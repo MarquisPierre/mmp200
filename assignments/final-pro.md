@@ -49,7 +49,7 @@ Design the look and feel of the website. Your design choices must include:
 - Typographic design (fonts, font sizes, font weights, leading, etc.)
 - Imagery
 
-Deliverable: a mockup of the homepage.
+Deliverable: a [style tile](http://styletil.es/).
 
 ### Stage 4: Production
 - Talk to me about the number of pages that you
