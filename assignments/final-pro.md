@@ -62,8 +62,8 @@ One PDF with all deliverable listed above. The PDF should be constructed as foll
 - Creative brief
 - Personas+scenarios
 - Sitemap
-- Sketches (minimum two sketches of homepage in desktop and mobile)
-- Screenshots from prototype + URL
-- Mockups (minimum two mockups of homepage in desktop and mobile)
+- Sketches (optional)
+- Screenshots from Axure prototype
+- Style tile
 - URL of website published in Github
 
