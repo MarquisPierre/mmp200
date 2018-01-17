@@ -24,7 +24,7 @@ title: HTML
     - The div and span elements
     - Complete list of HTML elements is here: [HTML5 Doctor](http://html5doctor.com/)
 
-- **[HTML validator]**(https://validator.w3.org/)
+- **[HTML validator](https://validator.w3.org/)**
 - 
 
 **Read:** [A Brief History of Markup](http://alistapart.com/article/a-brief-history-of-markup)
