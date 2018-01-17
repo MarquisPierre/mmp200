@@ -20,9 +20,10 @@ title: Textbook and Online Text
 - <a href="http://www.jjg.net/elements/pdf/elements_ch02.pdf">The Elements of User Experience</a> <em> (pdf)</em>
 - <a href="http://cdn.oreillystatic.com/oreilly/booksamplers/9781449362942_sampler.pdf">What Is Responsive Design?</a> (<em>pdf</em>)
 - <a href="http://www.uxmatters.com/mt/archives/2014/11/about-face-the-essentials-of-interaction-design.php">Creative Teamwork</a>
+-<a href="http://uxmag.com/sites/default/files/uploads/weinschenk100things/100ThingsExcerpt.pdf">How People See and What Motivates People, two chapters from 100 Things Every Designer Needs to Know About People</a>
 
 **Suggested books:**
 - <a href="http://the%20design of everyday things">The Design of Everyday Things</a>
-- <a href="http://www.amazon.com/Interdisciplinary-Interaction-Design-Interactive-Experiences/dp/0982634811/ref=sr_1_1?ie=UTF8&amp;qid=1453833931&amp;sr=8-1&amp;keywords=interdisciplinary+interaction+design">Interdisciplinary Interaction Design</a>
+- <https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0321965515&pd_rd_r=10RZZP8RH0S0QWNRF412&pd_rd_w=m8TL8&pd_rd_wg=Cm1Ms&psc=1&refRID=10RZZP8RH0S0QWNRF412">Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) </a>
 
 
