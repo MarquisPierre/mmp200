@@ -19,7 +19,7 @@ title: Textbook and Online Text
 - <a href="https://www.safaribooksonline.com/library/view/designing-interfaces/0596008031/ch04.html">Organizing the Page: Layout of Page Elements</a> <em> (pdf)</em>
 - <a href="http://cdn.oreillystatic.com/oreilly/booksamplers/9781449362942_sampler.pdf">What Is Responsive Design?</a> (<em>pdf</em>)
 - <a href="http://www.uxmatters.com/mt/archives/2014/11/about-face-the-essentials-of-interaction-design.php">Creative Teamwork</a>
-- <a href="http://uxmag.com/sites/default/files/uploads/weinschenk100things/100ThingsExcerpt.pdf">How People See and What Motivates People, two chapters from 100 Things Every Designer Needs to Know About People</a>
+- <a href="http://uxmag.com/sites/default/files/uploads/weinschenk100things/100ThingsExcerpt.pdf">How People See and What Motivates People</a>, two chapters from 100 Things Every Designer Needs to Know About People.
 
 **Suggested books:**
 - <a href="http://the%20design of everyday things">The Design of Everyday Things</a>
