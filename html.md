@@ -12,6 +12,8 @@ title: HTML
     - [Elements, Tages and Attributes]({{site.url}}/mmp200/html/html-intro) 
     - [Empty and container elements]({{site.url}}/mmp200/html/empty-container)
     - Nesting: parents and children
+    
+---------------
 
 * HTML elements
     - [HTML5 Sectional Elements: section, article, aside]({{site.url}}/mmp200/html/sectional-elements)
@@ -21,8 +23,9 @@ title: HTML
     - The div and span elements
     - Complete list of HTML elements is here: [HTML5 Doctor](http://html5doctor.com/)
 
+---------------
+
 - **[HTML validator](https://validator.w3.org/)**
-- 
 
 **Read:** [A Brief History of Markup](http://alistapart.com/article/a-brief-history-of-markup)
 
