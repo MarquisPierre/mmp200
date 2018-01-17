@@ -17,7 +17,6 @@ title: Textbook and Online Text
 - <a href="https://www.sensible.com/downloads/DMMT-Revisited-sample-chapter.pdf">Why Users like Mindless Choices</a> (pdf)
 - <a href="https://www.safaribooksonline.com/library/view/information-architecture-for/0596527349/ch04.html">The Anatomy of an Information Architecture</a><em> (pdf)</em>
 - <a href="https://www.safaribooksonline.com/library/view/designing-interfaces/0596008031/ch04.html">Organizing the Page: Layout of Page Elements</a> <em> (pdf)</em>
-- <a href="http://www.jjg.net/elements/pdf/elements_ch02.pdf">The Elements of User Experience</a> <em> (pdf)</em>
 - <a href="http://cdn.oreillystatic.com/oreilly/booksamplers/9781449362942_sampler.pdf">What Is Responsive Design?</a> (<em>pdf</em>)
 - <a href="http://www.uxmatters.com/mt/archives/2014/11/about-face-the-essentials-of-interaction-design.php">Creative Teamwork</a>
 -<a href="http://uxmag.com/sites/default/files/uploads/weinschenk100things/100ThingsExcerpt.pdf">How People See and What Motivates People, two chapters from 100 Things Every Designer Needs to Know About People</a>
