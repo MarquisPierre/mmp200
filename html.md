@@ -3,9 +3,6 @@ layout: class
 site: MMP 200 Multimedia Design
 title: HTML
 ---
-{% for i in (1..15) %}<a href="#week-{{i}}" class="week">Week {{i}}</a>{% endfor %}
-
---------------------
 
 ### HTML
 
