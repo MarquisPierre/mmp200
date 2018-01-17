@@ -21,13 +21,6 @@ title: HTML
     - HTML list elements: ul, ol, li
     - [Elements to mark emphasis]({{site.url}}/mmp200/html/emphasis)
     - The div and span elements
-  
-**Publishing on Github Pages** 
-- Sign up to get a FREE [Github](https://github.com/) account
-- Create a new repository. In Setting determine which channel will be used for your website.
-- Upload files and check published pages at username.github.io/repository/folder/filename.
-
-**Assignment:** HTML code for [Assignment 1](assignments/assignment1/assignment1.md)
 
 **Resources**
 - [HTML validator](https://validator.w3.org/)
