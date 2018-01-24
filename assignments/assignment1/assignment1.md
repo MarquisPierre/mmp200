@@ -19,9 +19,9 @@ We will demonstrate most code needed for the assignment in class and you will wo
 - [Sitemap](as1-mea-sitemap.PNG)
 - [Content and wireframes](wireframes-as1-mea.pdf)
 
-**Grading Criteria 
+**Grading Criteria**
 
-80% **Code** - your Code is free of errors and produces layout similar to the ones in the wireframes
-10% **Responsive** - you make use of relative CSS units that allows the page and elements' width to adapt to viewport size, media query to switch to a mobile-friendly navigation style and use relative units to size text.
-10% **Design** - you add your own design touches with additional CSS styls.
+**80% Code** - your Code is free of errors and produces layout similar to the ones in the wireframes
+**10% Responsive** - you make use of relative CSS units that allows the page and elements' width to adapt to viewport size, media query to switch to a mobile-friendly navigation style and use relative units to size text.
+**10% Design** - you add your own design touches with additional CSS styls.
 
