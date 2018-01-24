@@ -1,5 +1,5 @@
 ---
-layout: class-home
+layout: class
 site: MMP 200 Multimedia Design
 title: Schedule
 ---
