@@ -54,7 +54,7 @@ title: Schedule
 - [Viewport and Media Queries](css/viewport-media-queries.md) 
 
 **Assignment:** CSS for [Assignment 1](assignments/assignment1/assignment1.md)
-**Read:**[Build perfect website](Build perfect website)
+**Read:**[Build perfect website](http://geekfolk.blogspot.com/2015/01/build-perfect-website.html)
 
 --------------------------
 
