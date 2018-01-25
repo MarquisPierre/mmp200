@@ -98,8 +98,8 @@ title: Schedule
 - Creating mockups in Photoshop
 
 **Inspiration**
-- http://www.panorama.nyc/
-- https://fireflyfestival.com/
+- [http://www.panorama.nyc](http://www.panorama.nyc/home/)
+- [Governors Ball](https://www.governorsballmusicfestival.com/)
 
 **Assignment** 
 - [Midterm project](assignments/midterm.md) step 3
