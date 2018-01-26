@@ -54,6 +54,7 @@ title: Schedule
 - [Viewport and Media Queries](css/viewport-media-queries.md) 
 
 **Assignment:** CSS for [Assignment 1](assignments/assignment1/assignment1.md)
+
 **Read:**[Build perfect website](http://geekfolk.blogspot.com/2015/01/build-perfect-website.html)
 
 --------------------------
@@ -85,6 +86,7 @@ title: Schedule
     - [Great free fonts]({{site.url}}/mmp200/typography/great-free-fonts)
     - [CSS typography]({{site.url}}/mmp200/typography/css-type)
 - [Basics of color]({{site.url}}/mmp200/graphic-design/color)
+-Creating a mockup in Photoshop
 
 **Assignment** 
 - [Midterm project](assignments/midterm.md) step 3
@@ -95,7 +97,6 @@ title: Schedule
 - Layout desgin
     - [Visual Hierarchy](http://www.gdbasics.com/html/hierarchy/hierarchy.html)
     - [Grid]({{site.url}}/mmp200/graphic-design/grid)
-- Creating mockups in Photoshop
 
 **Inspiration**
 - [http://www.panorama.nyc](http://www.panorama.nyc/home/)
@@ -118,6 +119,7 @@ title: Schedule
 
 
 **Assignment:** [Midterm project](assignments/midterm.md) step 4
+
 **Read:** [What is Responsive Design](http://cdn.oreillystatic.com/oreilly/booksamplers/9781449362942_sampler.pdf)
 
 **Assignment:** [Midterm project](assignments/midterm.md) step 4
@@ -134,20 +136,11 @@ title: Schedule
 --------------------------
 
 ### Week 8
-**Midterm Production**
-- Embedding fonts with CSS
-- CSS enhancements
-
-**Assignment:** [Midterm project](assignments/midterm.md) step 4
-
---------------------------
-
-### Week 9
 **Midterm Presentations**
 
 --------------------------
 
-### Week 10
+### Week 9
 **Bootstrap Web Development**
 - Using a CSS feamework- advantages and drawbacks
 - [Download and learn about Bootstrap](http://getbootstrap.com/)- the most popular CSS framework
@@ -158,8 +151,8 @@ title: Schedule
 
 **Assignment:** [class portfolio]({{site.url}}/mmp200/assignments/portfolio)
 
-<!--
-### Week 9
+
+### Week 10
 **App Concept Development**
 <iframe src="https://player.vimeo.com/video/52861634" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -167,9 +160,11 @@ title: Schedule
 
 **Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work
 
-<!-- 
+ 
 **Class exercise:** User flows
+
 **Assignment:** [pitch an app]({{site.url}}/mmp200/assignments/app-pitch) group work and presentations
+
 **Read** 
 - [How we really use the Web](http://www.sensible.com/chapter.html)
 - [Why Users like Mindless Choices](https://www.sensible.com/downloads/DMMT-Revisited-sample-chapter.pdf)
