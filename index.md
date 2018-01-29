@@ -94,7 +94,7 @@ title: Schedule
 --------------------------
 
 ### Week 5
-- Layout desgin
+**Layout desgin**
     - [Visual Hierarchy](http://www.gdbasics.com/html/hierarchy/hierarchy.html)
     - [Grid]({{site.url}}/mmp200/graphic-design/grid)
 
@@ -152,7 +152,7 @@ title: Schedule
 **Assignment:** [class portfolio]({{site.url}}/mmp200/assignments/portfolio)
 
 
-### Week 10
+<!-- ### Week 10
 **App Concept Development**
 <iframe src="https://player.vimeo.com/video/52861634" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -172,7 +172,7 @@ title: Schedule
 
 --------------------------
 
-### Week 11
+### Week 10
 **Planning an interactive site**
 - Developing project requirements: [Creative Brief]({{site.url}}//mmp200/assignments/creative-brief)
 - [Information Architecture]({{site.url}}/mmp200/information-architecture/information-architecture)
@@ -188,7 +188,7 @@ title: Schedule
 
 --------------------------
 
-### Week 12
+### Week 11-12
 **Interface Design**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yY96hTb8WgI?rel=0" frameborder="0" allowfullscreen></iframe>
