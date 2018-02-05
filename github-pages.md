@@ -22,4 +22,4 @@ Make sure that you are using the latest version of the Chrome browser
 
 - To upload your files drag and drop the files, or the folder containing them, onto the repository. Click Commit.
 
-- The files URL is: username.github.io/repositoryname/foldername/filename.
+- The files URL is: **username.github.io/repositoryname/foldername/filename**.
