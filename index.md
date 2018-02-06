@@ -44,7 +44,7 @@ title: Schedule
 - [How to write CSS](css/writing-css.md)
 - [CSS  selectors](css/selectors.md)
 - [CSS box model: width, height, padding, margins, borders](css/box-model.md)
-- CSS units
+- CSS units: pixels (px), percentage (%), [em](https://www.sitepoint.com/power-em-units-css/), [rem](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/).
     - [Which CSS measurements to use when](http://thenewcode.com/775/Which-CSS-Measurements-To-Use-When)
 - [Block-level and Inline elements]({{site.url}}/mmp200/css/block-inline)
    
