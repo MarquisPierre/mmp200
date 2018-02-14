@@ -18,8 +18,15 @@ title: Pitch an App
 1. List current websites or apps that would be close competitors
 1. Explain why your app will be better than the competitors
 1. Draw (with pencil on paper) a sketch of the interface of the homepage
-1. Draw (with pencil on paper)a storyboard that describes one *user flow*: a sequence of screens a user will go through before achieving his or her goal.
 
 **Deliverables** 
-- PowerPoint presentation that includes slides for each of the seven points above. Include clear scans of your storyboard. 
-- Class Presentation
+PowerPoint presentation that includes the following slides:
+- **Name of the product** - include a short tagline that explains the essence of the product.
+- **Problem** - what problem are you trying to solve? 
+- **Solution** - describe how you are planning to solve the problem.
+- **Competition** - what are the existing solutions to the problem you are trying to solve?
+- **Competitive Advantages** - what makes your solution better? How is it different from others?
+- **Product** - show sketches or screenshots of your product that demonstrate how it works.
+- **Market** - who are your target audiences? What is the size of your target market?
+- **Business model** - how are you planning to make money? 
+- **Team** - show the people behind the idea and briefly describe their role.
