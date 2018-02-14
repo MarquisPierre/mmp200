@@ -19,8 +19,7 @@ title: Pitch an App
 1. Explain why your app will be better than the competitors
 1. Draw (with pencil on paper) a sketch of the interface of the homepage
 
-**Deliverables** 
-PowerPoint presentation that includes the following slides:
+**Deliverable: ** PowerPoint presentation that includes the following slides
 - **Name of the product** - include a short tagline that explains the essence of the product.
 - **Problem** - what problem are you trying to solve? 
 - **Solution** - describe how you are planning to solve the problem.
