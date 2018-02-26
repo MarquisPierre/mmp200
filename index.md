@@ -64,6 +64,8 @@ title: Schedule
 - [The design process](http://zurb.com/word/design-process)
     - [Agile web development](https://webdesign.tutsplus.com/articles/a-designers-introduction-to-agile-methodology--cms-23349)
 - [Web design deliverables](https://www.tpdesigns.net/Design-Articles/web-design-deliverables.html)
+- [Personas]({{site.url}}/mmp200/information-architecture/personas)
+- Scenarios and workflows
 
 **Information Architecture**
 - [Information Architecture]({{site.url}}/mmp200/information-architecture/information-architecture)
